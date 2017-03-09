@@ -466,14 +466,6 @@ INFO:1069225006604315930=Берин was a bit concerned about the скуума t
 INFO:10727121522144221805=Problem is that they search everyone that wants to leave. I could leave the ring behind and simply go out, all the other things I stole are quite common, they won't take notice of them when they search me. After all I'm an invited guest...
 INFO:10741316931833715969=Yes, I have a job. Do you also have one?
 INFO:1075621761574132044=Yes, Девенир Хидкрофт my employer was murdered, I came back a bit too late and found him upstairs...
-=======
-<<<<<<< HEAD
-INFO:0219312090831613=Greetings %PCName. We already told thy friend Талемос about the situation. Something is happening in the mine nearby. We know that there is a diamond mine in Хавиш, and it hadn't any effect on the Grimward, but some months ago something changed. It's as if someone ruthlessly uses magic to force his will upon nature, the backlash of these actions destabilizes the enchantings of the Grimward, and the Drake's dreams slip into reality.
-INFO:10002313662837710312=OK, you bet 500 gold. We both draw one card...
-INFO:1001918006272917354=Hello. Do you want to try your luck with the Колесо Фортуны?
-INFO:100333005326374327=I brought all four amulets to Eleret. She thanked me for finishing this job, but had another one. Now I'm going to search for Аварис Ромбиер, the guy that caused all the trouble and vanished. Мирия one of the girls in Цитадель might know where he is.
-INFO:10034154082684023843=Go to Игральные Кости and talk to Гемандил, the woman that operates the wheel.
-=======
 INFO:0219312090831613=Greetings %PCName. We already told thy friend Thalemos about the situation. Something is happening in the mine nearby. We know that there is a diamond mine in Хавиш, and it hadn't any effect on the Grimward, but some months ago something changed. It's as if someone ruthlessly uses magic to force his will upon nature, the backlash of these actions destabilizes the enchantings of the Grimward, and the Drake's dreams slip into reality.
 INFO:10002313662837710312=OK, you bet 500 gold. We both draw one card...
 INFO:1001918006272917354=Hello. Do you want to try your luck with the Колесо Фортуны?
@@ -485,52 +477,30 @@ INFO:1007116716239873200=Nothing serious happened yet, but it's only a matter of
 INFO:1007218017239505837=Meet her in the Kissing Wench at six in the evening.
 INFO:100777379854327823=Denia told me that Меган Ломари is a freelancer ассассин.
 INFO:10078297312089920153=Beat it!
-<<<<<<< HEAD
-INFO:100839672655822811=You found some of Эргестин Энкосте's notices? Hmm... Do you have any idea what a Grimward is? Well, by reading the book, it seems that Эргестин Энкосте knew it, and since the book indicates that Теодистир Хомоис already suggested something like this, I think it's time to share on of the secrets of our Guildhall with you.
-=======
 INFO:100839672655822811=You found some of Эргестин Энкосте's notices? Hmm... Do you have any idea what a Grimward is? Well, by reading the book, it seems that Эргестин Энкосте knew it, and since the book indicates that Theodistyr Homeoise already suggested something like this, I think it's time to share on of the secrets of our Guildhall with you.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
 INFO:1008716651458831721=Let's see.. %ZH_Addgold skooma, %ZH_Diag_Dummy moon sugar, %ZH_Diag_Dummy_2 glass. Do you think I'm a fool %PCName? I know you took more than that. Well, we both knew that you're a thief, and now we know how trustworthy you are. I'll let this pass, but don't think the guild will have any other business with someone like you.
 INFO:1009539882469117052=Here are my dice, you loose.               ( Your dice: %ZH_Diag_dummy_2 / Dealers dice: %ZH_Diag_dummy )
 INFO:10111242701829223365=As you wish.
 INFO:10113176281329718438=Ah %PCName, good timing. Are you available for a little escort mission?
 INFO:10125383397129871=We of the magistrate keep things running in the city.
-<<<<<<< HEAD
-INFO:10168223561431624944=Now, did you talk to Лонас Ромарен? Did he tell you that he sold me the gloves?
-INFO:10185105231398710404=Estate in Хавиш
-INFO:1018924833304228716=Дарбиен Эрдал sent me to the wilderness northwest of Хавиш. There, on the other side of the mountains, a necromancer named Басиллиус Ретро was seen working his arts. It's the duty of the Mages Guild to act against unsanctioned or forbidden use of magic, so Darbien wants me to slay this Necromancer and all his undead servants.
-=======
 INFO:10168223561431624944=Now, did you talk to Lonas Romaren? Did he tell you that he sold me the gloves?
 INFO:10185105231398710404=Estate in Хавиш
 INFO:1018924833304228716=Darbien Erdal sent me to the wilderness northwest of Хавиш. There, on the other side of the mountains, a necromancer named Басиллиус Ретро was seen working his arts. It's the duty of the Mages Guild to act against unsanctioned or forbidden use of magic, so Darbien wants me to slay this Necromancer and all his undead servants.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
 INFO:1018928414633332726=Troublemaker? So you thieves think I'm too troublesome yes? Well, I've just begun...
 INFO:101921099598712227=Thank you again %PCName. The glass shipment will be on it's way soon.
 INFO:1019318175557522334=I hope the ice cube will melt away soon...
 INFO:102607549929720331=Ah yes, a tough little rodent...
-<<<<<<< HEAD
-INFO:1026313652113897709=I placed the four pearls in Suran, Tel Vos, Gnisis and Dagon Fel, and reported back to Валерия Ниструс. She thanked me, and modified her teleporter to support these targets.
-INFO:1026711071964016382=You gave me that letter right? I'm Сафана, I broke into the house your letter told of, and fetched those pantaloons. Since then I was looking for you. A note or something would have been nice.
-INFO:10275271356077428=You are late for the ball... May I see your invitation? Yes this is in order. Please follow me.
-INFO:10278123741991526916=I don't think that we'll have problems with necromancers anytime soon.
-INFO:102866415176525813=Дарбиен Эрдал is the guild steward here, but I could use some help with my teleportation chamber.
-=======
 INFO:1026313652113897709=I placed the four pearls in Suran, Tel Vos, Gnisis and Dagon Fel, and reported back to Valeria Nistrus. She thanked me, and modified her teleporter to support these targets.
 INFO:1026711071964016382=You gave me that letter right? I'm Сафана, I broke into the house your letter told of, and fetched those pantaloons. Since then I was looking for you. A note or something would have been nice.
 INFO:10275271356077428=You are late for the ball... May I see your invitation? Yes this is in order. Please follow me.
 INFO:10278123741991526916=I don't think that we'll have problems with necromancers anytime soon.
 INFO:102866415176525813=Darbien Erdal is the guild steward here, but I could use some help with my teleportation chamber.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
 INFO:1028916718340311638=I deduct 9400 gold from your account. You deposit the money at an interest rate of 1.28%. The sum of 10000 gold will be added to your account after 5 days.
 INFO:1031315766163463259=Whoever thou art, be warned. If thou attackest, there will be no mercy.
 INFO:10349205802222221870=Are you %PCname? I'm Сафана, and a note under those pantaloons here told me to meet you here...
 INFO:103689281284221416=Эссендир the traitor. He was with us for all the time, but left us when he was most needed.
 INFO:1040228817284323811=Were you able to kill the bear %PCName? We can't tolerate wild animals in the city.
-<<<<<<< HEAD
-INFO:10404231573241927197=The fire in the warehouse is out of control. I fear Карус Варио won't be pleased...
-=======
 INFO:10404231573241927197=The fire in the warehouse is out of control. I fear Carus Vario won't be pleased...
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
 INFO:10456212981804021562=Number %ZH_Diag_Dummy, red; you have won. Here are your winnings. Do you want to try the Колесо Фортуны again?
 INFO:1046957672495232569=Finally I found Аварис, but he wasn't able to tell me anything. When I entered his room, that Dremora Lord, I met earlier in that cave near Хавиш, stood there with Аварис' heart in his hands. The dremora tried to leave with the amulet, but I couldn't allow this, and attacked.
 INFO:1047618151238616418=Excellent. I'll unlock the door for you.
@@ -546,21 +516,12 @@ INFO:10624736681461505=Тробир is no enchanter, and doesn't seem to have mu
 INFO:106372711294773570=Колодец, maybe another time.
 INFO:10663091793057413=%Name does not know this face. What thing do you want from %Name?
 INFO:106733106117596059=I followed Кулик and he indeed led me to his hiding place. Under a loose stone I found the bowl, as well as some gold and a letter.
-<<<<<<< HEAD
-INFO:10684182042911516364=What nonsense is this? Why should Лонас Ромарен sell our family gloves?
-=======
 INFO:10684182042911516364=What nonsense is this? Why should Lonas Romaren sell our family gloves?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
 INFO:1068628740839138=Hehe %Name is very grateful, and will of course open the door for his dear friend %PCName.
 INFO:1069225006604315930=Berin was a bit concerned about the skooma thieves and the note I found. It seems like there's a traitor within the Guild.
 INFO:10727121522144221805=Problem is that they search everyone that wants to leave. I could leave the ring behind and simply go out, all the other things I stole are quite common, they won't take notice of them when they search me. After all I'm an invited guest...
 INFO:10741316931833715969=Yes, I have a job. Do you also have one?
-<<<<<<< HEAD
-INFO:1075621761574132044=Yes, Девенир Хидкрофт my employer was murdered, I came back a bit too late and found him upstairs...
-=======
 INFO:1075621761574132044=Yes, Devenyr Heedcroft my employer was murdered, I came back a bit too late and found him upstairs...
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:10787534822204456=Meet me in the Запотевшая Кружка inn after nightfall.
 INFO:107911031652636432=We thank thee for helping us %PCname.
 INFO:1079421846314329188=Элерет is dead. The guild won't like this. From their point of view, I made up the story with Артемис, to lure her out of the guildhall's safety. It's better to avoid the Гильдия Воров from now on.
@@ -593,18 +554,7 @@ INFO:1106712889166605697=Cerebrold, the high priest at the Order of Arkay, asked
 INFO:1108442631524314236=We just begun to talk about investigating the mine, as something unexpected happened. Those zealous crusaders of Arkay, that searched for Basillus earlier, arrived at the Гримвард. They saw a vampire, a seemingly dead body, a ghost and two liches. Understandable that they were in no mood to talk.
 INFO:11092261661185626706=Ah yes, so you finally found Дж'Раширр, and he indeed had a note? Yes, this will suffice, I think I know now where he hid the scimitar. Here, take these 500 gold as reward for a well done job. I'm going back to Хавиш now, If you ever want to visit the city, Ask Валвели Арелас, the shipmaster in Gnaar Mok if she's willing to bring you there. Goodbye %PCName.
 INFO:1111710555202235337=The bank and Мейден Джарисел's jeweler shop are both at the plaza. Нерим Беренди the алхимик is next to Керемас's weapon shop, a few steps to the east from Златая Дева inn. Сембина Генарос' chemist's shop is next to Запотевшая Кружка inn, on the other side of the street. You'll find Книжный магазин Андана next to Мерендо Верди's armor shop, in the alley behind Разбитый Барабан. Finally, Севилиус Пулчер, the clothier, has his shop where the two main streets meet.
-INFO:11123681671118522=I talked to Невин Баран again, and told him about Гемандил and Nergel being a couple. Now he's sure that there's a way to cheat at the game. He sent me to Дагон Фел, to talk with a guy named Андре Маул, a retired member of the Гильдия Воров. He's the one that installed the Колесо Фортуны some years ago. If there is any way to manipulate the wheel, he will know it.
-=======
-INFO:1108442631524314236=We just begun to talk about investigating the mine, as something unexpected happened. Those zealous crusaders of Arkay, that searched for Basillus earlier, arrived at the Grimward. They saw a vampire, a seemingly dead body, a ghost and two liches. Understandable that they were in no mood to talk.
-INFO:11092261661185626706=Ah yes, so you finally found Дж'Раширр, and he indeed had a note? Yes, this will suffice, I think I know now where he hid the scimitar. Here, take these 500 gold as reward for a well done job. I'm going back to Хавиш now, If you ever want to visit the city, Ask Valveli Arelas, the shipmaster in Gnaar Mok if she's willing to bring you there. Goodbye %PCName.
-<<<<<<< HEAD
-INFO:1111710555202235337=The bank and Мейден Джарисел's jeweler shop are both at the plaza. Нерим Беренди the алхимик is next to Керемас's weapon shop, a few steps to the east from Златая Дева inn. Сембина Генарос' chemist's shop is next to Запотевшая Кружка inn, on the other side of the street. You'll find Книжный магазин Андана next to Мерендо Верди's armor shop, in the alley behind Разбитый Барабан. Finally, Севилиус Пулчер, the clothier, has his shop where the two main streets meet.
 INFO:11123681671118522=I talked to Невин Баран again, and told him about Гемандил and Nergel being a couple. Now he's sure that there's a way to cheat at the game. He sent me to Dagon Fel, to talk with a guy named Андре Маул, a retired member of the Гильдия Воров. He's the one that installed the Колесо Фортуны some years ago. If there is any way to manipulate the wheel, he will know it.
-=======
-INFO:1111710555202235337=The bank and Maidene Jarisel's jeweler shop are both at the plaza. Нерим Беренди the алхимик is next to Керемас's weapon shop, a few steps to the east from Златая Дева inn. Сембина Генарос' chemist's shop is next to Запотевшая Кружка inn, on the other side of the street. You'll find Книжный магазин Андана next to Merendo Verdi's armor shop, in the alley behind Разбитый Барабан. Finally, Sevilius Pulcher, the clothier, has his shop where the two main streets meet.
-INFO:11123681671118522=I talked to Nevin Baran again, and told him about Gemandil and Nergel being a couple. Now he's sure that there's a way to cheat at the game. He sent me to Dagon Fel, to talk with a guy named Андре Маул, a retired member of the Гильдия Воров. He's the one that installed the Колесо Фортуны some years ago. If there is any way to manipulate the wheel, he will know it.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:111365012660026583=* * TG guild greetings below * * *
 INFO:111861503627587724=So they use spells of cold to cool down a pool of lava there? Sounds like a good idea to me, even more now that I know that there's ebony down there. But when you think those actions cause all the trouble we have in the city, then I'll order to stop them at once, until we investigated the dangers.
 INFO:1118712515624213201=I guess you've heard of Desele's House of Earthly Delights? There are similar places right here in Хавиш... Well, I've activated the teleporter to Суран.
@@ -623,10 +573,7 @@ INFO:11352296811208116197=Артемис was seen in the Redoran canton.
 INFO:11383902280861276=Good. Go, get gold.
 INFO:113882183649805281=Stop. I'm sorry, but access to the palace is restricted to the ballroom. If you search for the exit, I'll escort you there, but I need to search you first, we suspect there's a thief around, sorry for the inconvenience.
 INFO:11388297351521816075=Good timing %PCName. There's this fellow from Хавиш, Артемис Entreri, who asked for our assistance in hunting down a thief.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
+
 INFO:11393256701345614944=You were sent by Валерия Ниструс? I already told her that I have no need for a fast travel route to Хавиш. There is no profit in this.
 INFO:1139832324113619360=I brought the drawing to Дения. Now, that was an easy job.
 INFO:114181191858524680=Дения noticed that the handwriting on the ассассин's letter is the same as in the one that told of the opportunity to steal the vase. Ломберт Хидкрофт's plan was good, I break into the house and get caught by Берегост when I leave. Meanwhile Меган Ломари kills the brother, puts the body back into the house, and I'm accused for the murder. I was lucky that Берегост came too late.
@@ -636,33 +583,11 @@ INFO:11505186551017416920=Good to know that there are still lawful citizens left
 INFO:1150724661396224771=I'm Мехиндрел. What do you want?
 INFO:11513155253189112629=Bregail the pawnbroker has her shop where the main street meets the plaza. The "Залог и Заем"-shop is next to Разбитый Барабан inn. Товары Мариуса and Эмерленд Пенинсе's shop are both in the backstreet behind Запотевшая Кружка inn.
 INFO:11513405015895289=Of course, I bought them in  Лонас Ромарен's shop, the "Залог и Заем". Go and ask him.
-<<<<<<< HEAD
-=======
-=======
-INFO:11393256701345614944=You were sent by Valeria Nistrus? I already told her that I have no need for a fast travel route to Хавиш. There is no profit in this.
-INFO:1139832324113619360=I brought the drawing to Denia. Now, that was an easy job.
-INFO:114181191858524680=Denia noticed that the handwriting on the ассассин's letter is the same as in the one that told of the opportunity to steal the vase. Lombert Heedcroft's plan was good, I break into the house and get caught by Beregost when I leave. Meanwhile Меган Ломари kills the brother, puts the body back into the house, and I'm accused for the murder. I was lucky that Beregost came too late.
-INFO:11454134161298414037=I brought the vase to Denia, but instead of thanking me for a well done job, she asked me, if I have killed Devenyr Heedcroft. She believed me, when I told her that nobody was in the house, but she sent me back to the Поместье Хидкрофтов, to talk with the housekeeper that found the body. Since the vase is missing, the citywatch suspects the guild to be responsible.
-INFO:1147227475630622703=You botched it. You were supposed to put the key back into the guard's purse before he left. Now they changed their security, and we won't get another chance.
-INFO:11505186551017416920=Good to know that there are still lawful citizens left. We were ordered to wait until someone brings us the key to the warehouse, but now that you confirm our suspects, we're going to search the building at once. Good work citizen, here take this as reward. Now please excuse me.
-INFO:1150724661396224771=I'm Мехиндрел. What do you want?
-INFO:11513155253189112629=Bregail the pawnbroker has her shop where the main street meets the plaza. The "Залог и Заем"-shop is next to Разбитый Барабан inn. Товары Мариуса and Emerand Penince's shop are both in the backstreet behind Запотевшая Кружка inn.
-INFO:11513405015895289=Of course, I bought them in  Lonas Romaren's shop, the "Залог и Заем". Go and ask him.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:11522231872309025551=Okay, you bet 500 Drakes. Now let's roll the Колесо Фортуны.(He turns to the wheel...)
 INFO:11538279791473619564=Welcome, %PCName. %Name is glad to see you again.
 INFO:11541276302175829042=Good good, have a look at the rats and pick your champion. My favorite is this one.
 INFO:11560210291431122305=I want you to inspect the Поместье Клентона.
-<<<<<<< HEAD
 INFO:115609925623321948=Nevin was pleased to hear that Рейна is back.
-=======
-<<<<<<< HEAD
-INFO:115609925623321948=Nevin was pleased to hear that Рейна is back.
-=======
-INFO:115609925623321948=Nevin was pleased to hear that Reyna is back.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:11577112121282617353=This is the place, yes? It's strange, somehow I feel a strong magic working here, but it's not detectable... Let me test some spells... Please don't move now %PCName.
 INFO:1158430067218056943=Mages Guild: The Necromancer
 INFO:1159719880773120771=I brought Narni to reason. She asked me not to tell Элерет that she was the one who stole from the Залог и Заем.
@@ -678,19 +603,6 @@ INFO:116522276536812619=Карус Варио gave me a good payment for getting
 INFO:116935858890816983=Ломберт Хидкрофт, the victim's brother, told the housekeeper to stay away. He said there was a visitor who wanted his privacy. Берегост also saw a man together with Ломберт Хидкрофт, that was introduced to him as one of the visitor's private guards. This man was a dunmer named Меган Ломари, and Берегост thinks he is in Запотевшая Кружка.
 INFO:1169713917316191902=Yes, these are the gloves. Good work! I hope Мехиндрел can forgive me. I will send the payment to Карус Варио at once.
 INFO:1171027149284463091=Hy Элерет, this is my friend %PCname, the young thief that helped us in the warehouse business.
-=======
-INFO:116412826650947262=Тробир is dead. A really zealous dremora-follower of Molag Bal killed him for offering this worthless copy to the Daedra Lord. He allowed me to take the amulet, and seems to be searching for Аварис Ромбиер now.
-<<<<<<< HEAD
-INFO:116522276536812619=Карус Варио gave me a good payment for getting those gloves back to Мебрин Виинфорд.
-INFO:116935858890816983=Ломберт Хидкрофт, the victim's brother, told the housekeeper to stay away. He said there was a visitor who wanted his privacy. Берегост also saw a man together with Ломберт Хидкрофт, that was introduced to him as one of the visitor's private guards. This man was a dunmer named Меган Ломари, and Берегост thinks he is in Запотевшая Кружка.
-INFO:1169713917316191902=Yes, these are the gloves. Good work! I hope Мехиндрел can forgive me. I will send the payment to Карус Варио at once.
-=======
-INFO:116522276536812619=Carus Vario gave me a good payment for getting those gloves back to Mebrean Weenford.
-INFO:116935858890816983=Lombert Heedcroft, the victim's brother, told the housekeeper to stay away. He said there was a visitor who wanted his privacy. Beregost also saw a man together with Lombert Heedcroft, that was introduced to him as one of the visitor's private guards. This man was a dunmer named Меган Ломари, and Beregost thinks he is in Запотевшая Кружка.
-INFO:1169713917316191902=Yes, these are the gloves. Good work! I hope Мехиндрел can forgive me. I will send the payment to Carus Vario at once.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:1171027149284463091=Hy Eleret, this is my friend %PCname, the young thief that helped us in the warehouse business.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:11736263483158323279=A lever in the upper floors of Цитадель opened a secret passage in the cellar. I finally found the hidden base of the Гильдия Воров. Эрденис already waited for me, and brought me to the guild's leader.
 INFO:117575842217625538=You're here to get me out? Great. when I entered these tombs all seemed quiet and empty, but suddenly all those undead appeared. I managed to barricade myself in this room and hoped they'll send someone like you to get me out. Let's leave this place. I'll follow you back to Хавиш.
 INFO:1177722041647517306=Алнестор tried to explain me, what those "drake dreams" as he called them are. If I understood right, it's somewhat similar to the strange feelings one has when he crosses a graveyard or an ancient battlefield, but on a much higher scale, as those drakes must have been extremely powerful magic beings in life.
@@ -698,10 +610,7 @@ INFO:1182210892212113592=2500 gold per week? Sounds fine. I accept.
 INFO:1183210134290344529=Fighters Guild: A Wild Animal
 INFO:1186045532578813882=It's unlikely that he has brought the sword to Balmora, but I'm sure that he has some hints about where to find it. Go and search Дж'Раширр. I doubt that you can intimidate him, so most likely you have to kill him. Go and bring me any note or letter you find in Дж'Раширр possession.
 INFO:1186291323179124557=So you killed that Necromancer and destroyed his undead servants? Good. I think we won't have troubles with the Necromancers anytime soon. Here, there was a price on his head - 800 Septims for you.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
+
 INFO:11869622257596654=Yes, I suspected that Гемандил is responsible for Nergel's "luck", and now we know how she does it. Now what to do? I'd say offer her to work for the guild, or make her leave. Just don't cause too much trouble in the inn.
 INFO:1187013063260309589=Give the letter to Телорн Сембиан, our forgery specialist. He'll open it.
 INFO:1189219316120532063=I guess you saw them already %PCRank? Rats, hundreds of them, and very fat ones. They are everywhere, in the streets, in the houses, some were even here in our guildhall. The citywatch isn't able to get rid of them, so they hired us to help exterminate this pest.
@@ -711,20 +620,6 @@ INFO:1192938802232714530=Yes, I'll put this pearl under one of these three cups 
 INFO:119622149568297165=%Name heard hear that they closed a complete tunnel in the mine. Maybe there was something down there they weren't able to handle.
 INFO:1196677032415632664=Ah, the real one. Good work %PCName, Our client will be very pleased. I'd like to see Данте's face when he sees that the real painting is gone.
 INFO:1197224995104417847=Невин Баран told me to go to Дом Райских Наслаждений Аланы. Рейна, one of the girls there is missing. This happened before. Once every year, one of the girls vanishes and is never seen again. I should ask around in the brothel.
-<<<<<<< HEAD
-=======
-=======
-INFO:11869622257596654=Yes, I suspected that Gemandil is responsible for Nergel's "luck", and now we know how she does it. Now what to do? I'd say offer her to work for the guild, or make her leave. Just don't cause too much trouble in the inn.
-INFO:1187013063260309589=Give the letter to Thelorn Semblan, our forgery specialist. He'll open it.
-INFO:1189219316120532063=I guess you saw them already %PCRank? Rats, hundreds of them, and very fat ones. They are everywhere, in the streets, in the houses, some were even here in our guildhall. The citywatch isn't able to get rid of them, so they hired us to help exterminate this pest.
-INFO:1190029283168473048=Go to Thalemos and tell him that we have evidence about a Grimward's presence here on Kathaer Island. He will be as interested as I, to find out the location and purpose of this magic.
-INFO:1191165352317429888=When I confronted Меган Ломари with my knowledge about his trade, he became cooperative. He admitted that he killed Devenyr Heedcroft, but denied to have any role in accusing the guild.
-INFO:1192938802232714530=Yes, I'll put this pearl under one of these three cups I have here, and then mix them up. You give me 20 Drakes and then chose one of the cups. You get whatever is under the cup, maybe the pearl, maybe nothing. What do you say?
-INFO:119622149568297165=%Name heard hear that they closed a complete tunnel in the mine. Maybe there was something down there they weren't able to handle.
-INFO:1196677032415632664=Ah, the real one. Good work %PCName, Our client will be very pleased. I'd like to see Данте's face when he sees that the real painting is gone.
-INFO:1197224995104417847=Nevin Baran told me to go to Дом Райских Наслаждений Аланы. Reyna, one of the girls there is missing. This happened before. Once every year, one of the girls vanishes and is never seen again. I should ask around in the brothel.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:11997160242847426178=You need Кипрус Валиус permission to enter this part of the mine.
 INFO:12036171451215912990=I had a wardspell active that disintegrated the little wretch in the moment he attacked me. But the backlash of my meditation being interrupted that violently rendered me unconscious for the next five days. When I awoke again, I was a vampire. Well, that was long ago %PCName, meanwhile I'm used to it.
 INFO:1206195762576820108=Элерет, you should have a look on this letter...
@@ -733,35 +628,14 @@ INFO:120825022291144734=What? Those gloves are mine, I honestly bought them. Jus
 INFO:1208423287811530156=Good. Go upstairs, then use the ladder to the attic. The door to your room is unlocked.
 INFO:1208827257396232379=Well, go and get some gold first.
 INFO:120951096237132864=One of the guild's pickpockets might be in trouble. There's a party going on in the palace, and Caitlen was sent there to lift some purses. She was supposed to be back some hours ago, but didn't show up yet. Эрденис sent me to the palace to look after her.
-<<<<<<< HEAD
 INFO:12098400343861476=Дения Генечус sent me to Данте's House between Jeweler and Mages Guild. I should look out for a drawing there, take it, and bring it to Дения. The house is unguarded at night, so I should have no problems.
 INFO:1210516509104946977=I can't advance you anymore, %PCRank. We're only a small chapter here in Хавиш. For further advancement, you'll have to talk to one of the Guildmasters. The next one would be Sjoring Hard-Heart in Vivec.
 INFO:121188050866920116=This is the Ald Velothi Outpost. The only other place of interest is the Daedric ruin of Ashalmawia to the east. Follow the coast northeast to the village of Khuul. Гнисис is due south, but there's no direct road. Head southwest until you reach the Samsi River, then work back east towards Гнисис.
-=======
-<<<<<<< HEAD
-INFO:12098400343861476=Дения Генечус sent me to Данте's House between Jeweler and Mages Guild. I should look out for a drawing there, take it, and bring it to Denia. The house is unguarded at night, so I should have no problems.
-INFO:1210516509104946977=I can't advance you anymore, %PCRank. We're only a small chapter here in Хавиш. For further advancement, you'll have to talk to one of the Guildmasters. The next one would be Sjoring Hard-Heart in Vivec.
-INFO:121188050866920116=This is the Ald Velothi Outpost. The only other place of interest is the Daedric ruin of Ashalmawia to the east. Follow the coast northeast to the village of Khuul. Gnisis is due south, but there's no direct road. Head southwest until you reach the Samsi River, then work back east towards Gnisis.
 INFO:12122119262095718672=Fighters Guild: Another Wild Animal
 INFO:121420999221976316=Did you speak with Мертаин Кулбриус?
 INFO:12150251921672914836=Huh? You want to sleep here? Yes, I have a room. Is 5 gold okay for you?
 INFO:12153293121521327116=I think he rent a room in the Six Fishes.
 INFO:1215382512694714513=Did you bring the gloves to Мебрин Виинфорд?
-=======
-INFO:12098400343861476=Denia Genechus sent me to Данте's House between Jeweler and Mages Guild. I should look out for a drawing there, take it, and bring it to Denia. The house is unguarded at night, so I should have no problems.
-INFO:1210516509104946977=I can't advance you anymore, %PCRank. We're only a small chapter here in Хавиш. For further advancement, you'll have to talk to one of the Guildmasters. The next one would be Sjoring Hard-Heart in Vivec.
-INFO:121188050866920116=This is the Ald Velothi Outpost. The only other place of interest is the Daedric ruin of Ashalmawia to the east. Follow the coast northeast to the village of Khuul. Gnisis is due south, but there's no direct road. Head southwest until you reach the Samsi River, then work back east towards Gnisis.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
-INFO:12122119262095718672=Fighters Guild: Another Wild Animal
-INFO:121420999221976316=Did you speak with Mertian Culbrius?
-INFO:12150251921672914836=Huh? You want to sleep here? Yes, I have a room. Is 5 gold okay for you?
-INFO:12153293121521327116=I think he rent a room in the Six Fishes.
-<<<<<<< HEAD
-INFO:1215382512694714513=Did you bring the gloves to Мебрин Виинфорд?
-=======
-INFO:1215382512694714513=Did you bring the gloves to Mebrean Weenford?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1216721382436115731=Thank you again for cleaning my name %PCName.
 INFO:122051630880118310=We have a troublemaker among the guards.
 INFO:12207123993003224607=When I entered the "Поцелуй Девицы" tavern in Хавиш, a Bosmer bumped into me, and tried to lift some coins from my purse. Although I noticed his attempt, I let him get away with some of my gold. Maybe this will turn out useful later, at least he might use the coins for a good cause.
@@ -772,34 +646,16 @@ INFO:1222076892773924222=Go and talk to Элерет at once %PCName.
 INFO:1223614312483130429=Ah you brought the скуума? Good. Now we'll see what to do about Irgola. Good work %PCName.
 INFO:1225112569182787782=Кулик frequents Златая Дева Inn. I want you to go there in the evening and observe him. When he leaves the inn to check his stack, follow him in the shadows. When he's gone, take everything and bring it to me.
 INFO:122521990364013204=No, I haven't seen that traitor.
-<<<<<<< HEAD
 INFO:122633632241225314=Hmm... I fear you're right %PCname. I'll stop stealing from this shop. Please, if possible could you try to find a way not to tell Элерет that I was the one that stole from here?
 INFO:12264275261725418383=There is this guy named Норис Ллобен who needs a bodyguard. It seems that he has some powerful enemies, and now that he wants to return to Суран on Vvardenfell, he fears that he'll run into an ambush. So he asked the Fighters Guild for an escort. This job will pay very well, but only if Noris arrives safely at Суран. Go to Запотевшая Кружка Inn, pick up Норис Ллобен, and bring him to Суран, but be careful %PCName, I don't think Noris told me the whole truth about how dangerous this voyage will be...
-=======
-INFO:122633632241225314=Hmm... I fear you're right %PCname. I'll stop stealing from this shop. Please, if possible could you try to find a way not to tell Eleret that I was the one that stole from here?
-<<<<<<< HEAD
-INFO:12264275261725418383=There is this guy named Норис Ллобен who needs a bodyguard. It seems that he has some powerful enemies, and now that he wants to return to Suran on Vvardenfell, he fears that he'll run into an ambush. So he asked the Fighters Guild for an escort. This job will pay very well, but only if Noris arrives safely at Suran. Go to Запотевшая Кружка Inn, pick up Норис Ллобен, and bring him to Suran, but be careful %PCName, I don't think Noris told me the whole truth about how dangerous this voyage will be...
-=======
-INFO:12264275261725418383=There is this guy named Noris Lloben who needs a bodyguard. It seems that he has some powerful enemies, and now that he wants to return to Suran on Vvardenfell, he fears that he'll run into an ambush. So he asked the Fighters Guild for an escort. This job will pay very well, but only if Noris arrives safely at Suran. Go to Запотевшая Кружка Inn, pick up Noris Lloben, and bring him to Suran, but be careful %PCName, I don't think Noris told me the whole truth about how dangerous this voyage will be...
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1226691738119929=OK, we both draw a new card.
 INFO:1228021397772112968=I missed the timeline. The opportunity to steal that vase has passed. Дения wasn't pleased.
 INFO:1228416684752225054=He once was one of the guildleaders, but he and Vobar the guildmaster only filled their own pockets. We united against those two and reformed the guild under Элерет's leadership.
 INFO:12306224852687648=Okay okay, I understand. I want no trouble. I leave the town.
 INFO:123295184956825020=Marick! Finally you will you pay...
 INFO:12343313272336321928=I missed the timeline, and the guard noticed that his key is missing. The key won't be of much use now. Seems like I botched this job.
-<<<<<<< HEAD
 INFO:12345322281777016298=Дарбиен Эрдал gave me my reward for taking care of this necromancer.
 INFO:1238729144109015799=Элерет thanked me for finishing this business, and bringing her the real amulet.
-=======
-<<<<<<< HEAD
-INFO:12345322281777016298=Дарбиен Эрдал gave me my reward for taking care of this necromancer.
-=======
-INFO:12345322281777016298=Darbien Erdal gave me my reward for taking care of this necromancer.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:1238729144109015799=Eleret thanked me for finishing this business, and bringing her the real amulet.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:12395239172183315003=Ah %PCname, I hear you helped Caitlen out of trouble?
 INFO:12400256832349729134=Wow, you were lucky this time %PCRace. Here's your pearl. Do you want to try your luck at another game of cups?
 INFO:124014867508030331=One could say that our Гильдия Воров is a union of several specialized guilds, and the Taskmasters are the guildmasters. Эрденис is the pickpocket master, Дения the master burglar, smugglers report to Берин, and Nevin controls taverns gambling halls and brothels.
@@ -807,15 +663,7 @@ INFO:12415260604437129=(She left the building.)
 INFO:1244319360370617656=I deduct 69000 gold from your account. You deposit the money at an interest rate of 2.25%. The sum of 100000 gold will be added to your account after 20 days.
 INFO:1247167872389731996=I need someone to dive into the pockets of a messenger that just arrived here in Хавиш.
 INFO:1247429959586021677=Stop. You no cross Брокк's bridge before you pay Брокк 100 gold.
-<<<<<<< HEAD
 INFO:1248968183205925037=No, I have no news about the murder on Девенир Хидкрофт.
-=======
-<<<<<<< HEAD
-INFO:1248968183205925037=No, I have no news about the murder on Девенир Хидкрофт.
-=======
-INFO:1248968183205925037=No, I have no news about the murder on Devenyr Heedcroft.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:124931190470713430=Go to her and try to convince her to drop her plans. You may even bribe her. But if she doesn't comply, don't become violent. Come back to me, I already have a plan for this case.
 INFO:12494295793158518531=Too bad that the warehouse burned out, but I guess this was the only way to prevent the guards from finding evidence against us, However, I fear the owner of the warehouse won't be pleased, I doubt that he will continue to offer storage space to the Guild.
 INFO:125081201877530314=A house in Хавиш was frozen in a giant ice cube. Luckily nobody was inside.
@@ -829,10 +677,6 @@ INFO:12556100252699824172=The Pack consists of 5 red wolves, and their leader, a
 INFO:12561115551278620883=Yes %PCName? Where do you have the letter?
 INFO:1256288261617829143=A guard searched me, and found the goods I took from the warehouse. Since I told everything I knew about Эрденис and the local Thieves guild, the guard let me go.
 INFO:12570144461521032058=Bring the fake letter back to the messenger.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:12597190821829624999=I believe you %PCname, but Девенир Хидкрофт was murdered. Берегост, the family's housekeeper came back and found his employer's dead body, He also noticed the missing vase. And now the guard watches all of our steps. Go back to the mansion and talk to Берегост %PCname.
 INFO:125997855143745963=We were hired to steal a valuable Изысканная vase from Девенир Хидкрофт. Поместье Хидкрофтов is unguarded tonight, go there in the hour before midnight and steal that vase. But remember %PCName, you only have this one hour to finish the task.
 INFO:12607299251177529725=To find out more about that Гримвард and it's purpose, Теодистир Хомоис sent me back to Талемос. Талемос is Theodistyr's student, although today he doesn't look much younger than his vampiric tutor. Since Теодистир Хомоис is restricted to his laboratory, Талемос seems to do the field work.
@@ -843,78 +687,29 @@ INFO:1275822544697627270=Any news of that closed tunnel %PCName?
 INFO:127741540278127576=Оружейная Леталии is on the main street, next to the Fighters Guild. Go a few steps north from there, and you come to Гребаш's armor shop. Now turn to the left, and you'll see Мерендо Верди's armor shop right ahead. When you follow the street to the north from Гребаш's shop, it will turn to the left, and you'll stand in front of Оружейная Керемата. And finally when you go straight ahead, you'll find Элвинг the bowyer next to Златая Дева inn.
 INFO:12783129802090223814=Those gloves are a family heirloom or something. They vanished some time ago and just recently Мебрин Виинфорд saw a Bosmer named Мехиндрел wearing them. Well, everyone knows that the Bosmer have a tendency to take things they don't own... Your job is to go and find this Мехиндрел and bring the gloves to Мебрин Виинфорд.
 INFO:1279120785710421660=I brought Aryon's spell and the book from Nchuleft to Талемос. After reading the old dwemer records, Талемос is convinced, that there is no real threat coming from this dead Drake.
-<<<<<<< HEAD
-=======
-=======
-INFO:12597190821829624999=I believe you %PCname, but Devenyr Heedcroft was murdered. Beregost, the family's housekeeper came back and found his employer's dead body, He also noticed the missing vase. And now the guard watches all of our steps. Go back to the mansion and talk to Beregost %PCname.
-INFO:125997855143745963=We were hired to steal a valuable Изысканная vase from Devenyr Heedcroft. Поместье Хидкрофтов is unguarded tonight, go there in the hour before midnight and steal that vase. But remember %PCName, you only have this one hour to finish the task.
-INFO:12607299251177529725=To find out more about that Grimward and it's purpose, Theodistyr Homeoise sent me back to Thalemos. Thalemos is Theodistyr's student, although today he doesn't look much younger than his vampiric tutor. Since Theodistyr Homeoise is restricted to his laboratory, Thalemos seems to do the field work.
-INFO:126245882042219679=Very well then. As soon as the sun went down, we can leave.
-INFO:1273787011566115311=It just needed some coins to open Mertian Culbrius's mouth. He buys the skooma from a Dark Elf named Avos Ulvani. I should bring the news to Berin.
-INFO:127509435731224629=Are you able to take care of a Necromancer?
-INFO:1275822544697627270=Any news of that closed tunnel %PCName?
-INFO:127741540278127576=Оружейная Леталии is on the main street, next to the Fighters Guild. Go a few steps north from there, and you come to Гребаш's armor shop. Now turn to the left, and you'll see Merendo Verdi's armor shop right ahead. When you follow the street to the north from Гребаш's shop, it will turn to the left, and you'll stand in front of Оружейная Керемата. And finally when you go straight ahead, you'll find Elwing the bowyer next to Златая Дева inn.
-INFO:12783129802090223814=Those gloves are a family heirloom or something. They vanished some time ago and just recently Mebrean Weenford saw a Bosmer named Мехиндрел wearing them. Well, everyone knows that the Bosmer have a tendency to take things they don't own... Your job is to go and find this Мехиндрел and bring the gloves to Mebrean Weenford.
-INFO:1279120785710421660=I brought Aryon's spell and the book from Nchuleft to Thalemos. After reading the old dwemer records, Thalemos is convinced, that there is no real threat coming from this dead Drake.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:128103404257325308=Maybe you should come back later in the evening, when everyone is here.
 INFO:1281119322179475235=Welcome to the Банк Хавиша. We were forced to adapt our interest rates and service-charge due to a robbery recently, but we're still in business. How may I serve you? Do you want to access your account?
 INFO:12822866447018077=Something went wrong in the last succession war, and the ring was destroyed. I don't know how it happened, but they gave me a ring that was split into two parts and had so many marks on it that it looked, as if they used a battle axe to cut it from the last owner's finger.
 INFO:1283510679163814108=* * Misc Quests * * *
-<<<<<<< HEAD
 INFO:12836224341478028603=Although Сандибал Мегестин didn't survive his adventure, I brought his ring back for his wife, and Карус Варио gave me my payment.
-=======
-<<<<<<< HEAD
-INFO:12836224341478028603=Although Сандибал Мегестин didn't survive his adventure, I brought his ring back for his wife, and Карус Варио gave me my payment.
-=======
-INFO:12836224341478028603=Although Сандибал Мегестин didn't survive his adventure, I brought his ring back for his wife, and Carus Vario gave me my payment.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:12839202112257012451=You have no account at our Bank, %PCName. If you want to open one, you just need to deposit some money.
 INFO:1285721849521523798=Good to hear that he's okay. Haven't heard anything from him since he left Хавиш.
 INFO:12867302532127917068=Go back to Златая Дева %PCName, sell the ring back to Leshir Moniesce and bring me the gold.
 INFO:1287374292584318291=You botched it %PCName. You were supposed to burn our hidden cache, so that there will be nothing left that could be used as evidence against the guild. I'm sorry, but the Guild has no place for incompetent fools like you.
 INFO:1289225927288910807=I killed the warlock, but this is only a temporary solution, they will simply hire another mage.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:12893166131457726495=Good good. I will send the payment to Карус Варио at once.
 INFO:12910248942702621601=I heard Марик Реинесте is quite fond of her, he's here almost every night.
 INFO:1291631698185384156=I hoped Дарбиен Эрдал would send you. Yes, yes, this Soulgem will do fine. Keep it, you're going to need it soon.
 INFO:12917203433020715690=I feel no difference? But I... my body is dead. Why do I still exist?
 INFO:12932130642896414504=Хавиш. One moment, Yes now the teleporter will bring you to Хавиш. Give my regards to Валерия Ниструс.
-<<<<<<< HEAD
 INFO:12936238072090221412=One of the Mages Guild's researchers died recently. It was Эргестин Энкосте, the mage I saved from that wild bear. Seems like the stress was to much for his heart. No documents of his important research were found in his house, so Дарбиен Эрдал suspects that Эргестин Энкосте had a secret laboratory somewhere. Дарбиен sent me to Эргестин Энкосте's house next to Цитадель tavern, to search it, and bring him any documents I find there.
-=======
-INFO:12936238072090221412=One of the Mages Guild's researchers died recently. It was Эргестин Энкосте, the mage I saved from that wild bear. Seems like the stress was to much for his heart. No documents of his important research were found in his house, so Дарбиен Эрдал suspects that Эргестин Энкосте had a secret laboratory somewhere. Darbien sent me to Эргестин Энкосте's house next to Цитадель tavern, to search it, and bring him any documents I find there.
-=======
-INFO:12893166131457726495=Good good. I will send the payment to Carus Vario at once.
-INFO:12910248942702621601=I heard Marick Reineste is quite fond of her, he's here almost every night.
-INFO:1291631698185384156=I hoped Darbien Erdal would send you. Yes, yes, this Soulgem will do fine. Keep it, you're going to need it soon.
-INFO:12917203433020715690=I feel no difference? But I... my body is dead. Why do I still exist?
-INFO:12932130642896414504=Хавиш. One moment, Yes now the teleporter will bring you to Хавиш. Give my regards to Valeria Nistrus.
-INFO:12936238072090221412=One of the Mages Guild's researchers died recently. It was Эргестин Энкосте, the mage I saved from that wild bear. Seems like the stress was to much for his heart. No documents of his important research were found in his house, so Darbien Erdal suspects that Эргестин Энкосте had a secret laboratory somewhere. Darbien sent me to Эргестин Энкосте's house next to Цитадель tavern, to search it, and bring him any documents I find there.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:12941315241079019243=I have a well sorted library upstairs, containing books that are very rare in this region. Those books are not for sale, but I'll give you access to my library for a one-time fee of 1000 gold. Are you interested?
 INFO:129420846126763749=I found a diary in Тробир's house. He's a daedra worshiper, and bought his amulet as an offering for Molag Bal. There seems to be a shrine to the daedra lord in a cave on the plateau to the west.
 INFO:1294337832931026353=Эрденис appreciated that I showed my pickpocketing talents once again by placing the fake letter back into the messenger's pockets. He thanked me for finishing this job. I'm wondering when this prince shows up in Хавиш, and if this heirloom is really that valuable.
 INFO:1294726365274289785=I told you already. All I know is that he wanted to go to Gnaar Mok.
 INFO:1295224832731714216=%PCName again. What can I do for you?
-<<<<<<< HEAD
 INFO:1298620526156232135=When I showed her the letter in which Артемис orders Фариен Андоис to kill Чебогг and Капитан Хансол, Элерет asked me to meet Артемис, and find out what he wants.
 INFO:1298629590507532275=When we reached Хавиш, Марик Реинесте thanked me for my help. He and Рейна left my company.
-=======
-<<<<<<< HEAD
-INFO:1298620526156232135=When I showed her the letter in which Артемис orders Фариен Андоис to kill Чебогг and Капитан Хансол, Eleret asked me to meet Артемис, and find out what he wants.
-INFO:1298629590507532275=When we reached Хавиш, Марик Реинесте thanked me for my help. He and Рейна left my company.
-=======
-INFO:1298620526156232135=When I showed her the letter in which Артемис orders Farien Andoise to kill Чебогг and Captain Hansol, Eleret asked me to meet Артемис, and find out what he wants.
-INFO:1298629590507532275=When we reached Хавиш, Marick Reineste thanked me for my help. He and Reyna left my company.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1298922947917319469=Our client didn't pay. He said the drawing was a worthless copy, and he is trustworthy in these terms. Go back to Данте's home, and find out what happened to the real drawing.
 INFO:1299822818360428722=Эрденис sent you to get me out of trouble?
 INFO:1301249991313131201=And how much gold do you want to transfer to the Bank of Vvardenfell?
@@ -931,15 +726,7 @@ INFO:13122279031710319591=Sorry. Doesn't look like you can afford it. Maybe anot
 INFO:131342186275523093=The Гильдия Воров yes? Well, maybe I really did a job here in Хавиш, but this is none of your concern. leave me alone.
 INFO:1313957522379821493=Now go and hurry, you have about two hours before the guard moves in. We meet again tomorrow morning in the "Поцелуй Девицы" Inn.
 INFO:13141193461732322222=Don't worry, I'll leave town as soon as I can.
-<<<<<<< HEAD
 INFO:1314629120992921504=What do you mean? Are you accusing me of murdering Девенир Хидкрофт?
-=======
-<<<<<<< HEAD
-INFO:1314629120992921504=What do you mean? Are you accusing me of murdering Девенир Хидкрофт?
-=======
-INFO:1314629120992921504=What do you mean? Are you accusing me of murdering Devenyr Heedcroft?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1314861552378621977=Ah, home again. Thank you for your services, I'll come along fine now. I hope I haven't bothered you too much with my lessons about mysticism? Maybe you find the spells I taught you useful. I'm sure we'll meet again. Thank you %PCName.
 INFO:13151108011116311206=Now that I've passed the tests, I'm a member of Хавиш's Гильдия Воров
 INFO:131731553213012477=Ah, the dwemer bowl. Good work %PCRank, I'd like too see Кулик's face when he finds out that the goblet is gone...
@@ -952,20 +739,9 @@ INFO:13241198223118022160=My teleportation chamber is active, it can transport y
 INFO:13252148641226732409=I gave the fake letter to the messenge. He was happy to have it back, and even gave me a finder's fee.
 INFO:1326101151090912733=As if we haven't enough problems around here... Listen %PCName, there's this adventurer that thought it's a good idea to stroll around in the old tombs to the southwest. He didn't come back of course, and now his wife wants us to Поиск И Спасение him.
 INFO:132632839772832762=Number %ZH_Diag_Dummy, black; you have won. Here are your winnings. Do you want to try the Колесо Фортуны again?
-<<<<<<< HEAD
 INFO:13268104402946215475=Yes, Рейна suddenly left without a word. I got curious, and followed her to the citygate. She left town, and began to drop  her clothes, I was too afraid of the wilderness and her strange behavior to follow her further though.
 INFO:13270246932659130586=Принц Лешир Маниес has a room in Златая Дева. Go and pick that ring from his pockets.
 INFO:1327921892241309708=There are four inns here in Хавиш: Мерцающий Единорог near the palace, Златая Дева and Запотевшая Кружка on the street to the temple, and Разбитый Барабан near the Fighters Guild. You'll find the "Поцелуй Девицы" tavern and Игральные Кости gambling hall at the grand plaza. Цитадель is a gambling hall and brothel near the docks. Дом Райских Наслаждений Аланы can be found at the east end of town, next to the Fighters Guild.
-=======
-<<<<<<< HEAD
-INFO:13268104402946215475=Yes, Рейна suddenly left without a word. I got curious, and followed her to the citygate. She left town, and began to drop  her clothes, I was too afraid of the wilderness and her strange behavior to follow her further though.
-INFO:13270246932659130586=Принц Лешир Маниес has a room in Златая Дева. Go and pick that ring from his pockets.
-=======
-INFO:13268104402946215475=Yes, Reyna suddenly left without a word. I got curious, and followed her to the citygate. She left town, and began to drop  her clothes, I was too afraid of the wilderness and her strange behavior to follow her further though.
-INFO:13270246932659130586=Prince Leshir Moniesce has a room in Златая Дева. Go and pick that ring from his pockets.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:1327921892241309708=There are four inns here in Хавиш: Мерцающий Единорог near the palace, Златая Дева and Запотевшая Кружка on the street to the temple, and Разбитый Барабан near the Fighters Guild. You'll find the Kissing Wench tavern and Игральные Кости gambling hall at the grand plaza. Цитадель is a gambling hall and brothel near the docks. Дом Райских Наслаждений Аланы can be found at the east end of town, next to the Fighters Guild.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1328166772961423396=Beware of those strange light balls that wander the wilderness at night, first they seem to be peaceful, and in the next moment they launch a magic attack upon you.
 INFO:1328358151231324457=Well, word on the street is that you've got about %PCCrimeLevel gold on your head. As you're a Гильдия Воров member in good standing, I should be able to fix that for %CrimeGoldDiscount gold. Sound fair to you?
 INFO:1329619988108344220=Someone with red clothes? A robe... Well, yes there was this woman... A bunch of drunkards hung about at the docks yesterday, among them a woman in a red robe. They left to the southwest. Last time I saw them, they were near the Seran Ancestral Tomb.
@@ -977,7 +753,6 @@ INFO:133671450321075507=...and so we're here to ask for your permission to exami
 INFO:133977016463314741=Hello again, %PCName. What's your question?
 INFO:13398651817986340=Good day. I'm %Name, the publican here. What may I bring you?
 INFO:13414143232924621673=Did you hear it? The dead raised from their graves, and The Order of Arkay wasn't able to do anything about it.
-<<<<<<< HEAD
 INFO:134318874144555511=Thelorn managed to open the letter, and we showed it to Элерет. The letter is for the captain of Хавиш's citywatch. Soon a prince from Ronielle will arrive in Хавиш, wearing a supposedly very valuable family heirloom. While the original letter asks the citywatch captain for support in protecting prince and heirloom, Элерет told Thelorn to forge a new letter, that tells the opposite: The prince and his staff are too paranoid, and Хавиш's citywatch shouldn't care about requests for additional guards.
 INFO:13440241445823629=I brought the dwemer soul to Талемос, and he seemed to be quite excited with his new toy. It doesn't seem like he's going to get some answers from that spectre anytime soon. I think, I should let him alone.
 INFO:134413276211265738=I don't think that we have more than one or two hours before he finally finds the citywatch headquarters. I want you to look for this messenger, a guy named Туржан. He's easy to find, a somewhat puzzled looking nord clad in blue finery. When you catch up with him, pick his pockets and take the letter he brought to Хавиш. Be careful %PCName, don't let him catch you and don't hurt this messenger. Here, take this potion, it boosts your pickpocket skills for a short time.
@@ -985,24 +760,6 @@ INFO:13475278721259828948=I heard that Аварис sold one of the amulets to C
 INFO:13504154942679327980=Yes?
 INFO:1351276861513524642=But four of the copies were sold here in Хавиш, and our client got the fifth one. Those copies are of low quality, so the betrayed client found it out very soon. If the citywatch would get their hands on one of the amulets, they could easily follow the track back to the guild.
 INFO:1355610803430827754=You want to know more about Grimwards? Well they are fairy tales. Mighty ancient human magic, meant to banish great evils... Sure... So Талемос sent you to have a look into the Arcanus Fundare? Well, bad news %PCName, it was confiscated by the temple because it contained blasphemous knowledge.
-=======
-INFO:134318874144555511=Thelorn managed to open the letter, and we showed it to Eleret. The letter is for the captain of Хавиш's citywatch. Soon a prince from Ronielle will arrive in Хавиш, wearing a supposedly very valuable family heirloom. While the original letter asks the citywatch captain for support in protecting prince and heirloom, Eleret told Thelorn to forge a new letter, that tells the opposite: The prince and his staff are too paranoid, and Хавиш's citywatch shouldn't care about requests for additional guards.
-<<<<<<< HEAD
-INFO:13440241445823629=I brought the dwemer soul to Талемос, and he seemed to be quite excited with his new toy. It doesn't seem like he's going to get some answers from that spectre anytime soon. I think, I should let him alone.
-INFO:134413276211265738=I don't think that we have more than one or two hours before he finally finds the citywatch headquarters. I want you to look for this messenger, a guy named Туржан. He's easy to find, a somewhat puzzled looking nord clad in blue finery. When you catch up with him, pick his pockets and take the letter he brought to Хавиш. Be careful %PCName, don't let him catch you and don't hurt this messenger. Here, take this potion, it boosts your pickpocket skills for a short time.
-INFO:13475278721259828948=I heard that Аварис sold one of the amulets to Coran, a frequent visitor of Игральные Кости.
-INFO:13504154942679327980=Yes?
-INFO:1351276861513524642=But four of the copies were sold here in Хавиш, and our client got the fifth one. Those copies are of low quality, so the betrayed client found it out very soon. If the citywatch would get their hands on one of the amulets, they could easily follow the track back to the guild.
-INFO:1355610803430827754=You want to know more about Grimwards? Well they are fairy tales. Mighty ancient human magic, meant to banish great evils... Sure... So Талемос sent you to have a look into the Arcanus Fundare? Well, bad news %PCName, it was confiscated by the temple because it contained blasphemous knowledge.
-=======
-INFO:13440241445823629=I brought the dwemer soul to Thalemos, and he seemed to be quite excited with his new toy. It doesn't seem like he's going to get some answers from that spectre anytime soon. I think, I should let him alone.
-INFO:134413276211265738=I don't think that we have more than one or two hours before he finally finds the citywatch headquarters. I want you to look for this messenger, a guy named Turjan. He's easy to find, a somewhat puzzled looking nord clad in blue finery. When you catch up with him, pick his pockets and take the letter he brought to Хавиш. Be careful %PCName, don't let him catch you and don't hurt this messenger. Here, take this potion, it boosts your pickpocket skills for a short time.
-INFO:13475278721259828948=I heard that Аварис sold one of the amulets to Coran, a frequent visitor of Игральные Кости.
-INFO:13504154942679327980=Yes?
-INFO:1351276861513524642=But four of the copies were sold here in Хавиш, and our client got the fifth one. Those copies are of low quality, so the betrayed client found it out very soon. If the citywatch would get their hands on one of the amulets, they could easily follow the track back to the guild.
-INFO:1355610803430827754=You want to know more about Grimwards? Well they are fairy tales. Mighty ancient human magic, meant to banish great evils... Sure... So Thalemos sent you to have a look into the Arcanus Fundare? Well, bad news %PCName, it was confiscated by the temple because it contained blasphemous knowledge.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:13592123373135811721=The remaining rats vanished as suddenly as they appeared, I wonder what's going on here in Хавиш...
 INFO:13604112391742724197=So you bothered the king with this yes? Well, okay I tell you what we do down there. We found a large ebony deposit in the lowest level of the mines, this might be the largest source of ebony in the whole region. Хавиш has a diamond mine, but in times like this, the demand on raw ebony is much higher than on jewelry.
 INFO:1360784872066914591=I met Irgola and asked him about the shipment of fake glass. He swore that he sent real glass on the way to Хавиш. I told him that I already found the real culprits. When I brought him the скуума, he promised to ship the glass as soon as possible.
@@ -1012,24 +769,10 @@ INFO:1362490302058113890=Сандибал Мегестин never was much of a h
 INFO:13629271372522231734=I knew that you would say something like that, my dear. If you would excuse us %PCName, Элерет and I have some unfinished business to attend to...
 INFO:136328480916312141=Come back whenever thou art ready for thy reward.
 INFO:1363530098144499358=And how much do you bet on Number %ZH_Diag_Dummy?
-<<<<<<< HEAD
 INFO:13662143091799618355=Меган Ломари told me that Ломберт Хидкрофт, the victim's brother, paid him for the murder. Меган Ломари wants no trouble with the guild, and gave me a letter from Ломберт Хидкрофт as evidence. I should show the letter to Дения.
 INFO:13665168372443126854=You're from the Fighters Guild? So the bear is dead? Great work, I knew that you'll help me soon. I'll send my payment to your guild steward at once..
 INFO:1367871251047413707=I'm a warrior by trade. I know how to fight, when necessary, but I much rather look so tough that critters give up or run away when they see me. Of course I'm a member of the Fighters Guild.
 INFO:1369611878493413415=I gave a ruby to Талемос, and he indeed was able to make the Гримвард visible. It's a large forcefield that bars us from going trough. Талемос thinks a spirit won't be blocked, and wants to try a spiritwalking ritual. He needs Theodistyr's help though, so I should return to Хавиш, and bring Theodistyr to this place.
-=======
-<<<<<<< HEAD
-INFO:13662143091799618355=Меган Ломари told me that Ломберт Хидкрофт, the victim's brother, paid him for the murder. Меган Ломари wants no trouble with the guild, and gave me a letter from Ломберт Хидкрофт as evidence. I should show the letter to Denia.
-INFO:13665168372443126854=You're from the Fighters Guild? So the bear is dead? Great work, I knew that you'll help me soon. I'll send my payment to your guild steward at once..
-INFO:1367871251047413707=I'm a warrior by trade. I know how to fight, when necessary, but I much rather look so tough that critters give up or run away when they see me. Of course I'm a member of the Fighters Guild.
-INFO:1369611878493413415=I gave a ruby to Талемос, and he indeed was able to make the Grimward visible. It's a large forcefield that bars us from going trough. Талемос thinks a spirit won't be blocked, and wants to try a spiritwalking ritual. He needs Theodistyr's help though, so I should return to Хавиш, and bring Theodistyr to this place.
-=======
-INFO:13662143091799618355=Меган Ломари told me that Lombert Heedcroft, the victim's brother, paid him for the murder. Меган Ломари wants no trouble with the guild, and gave me a letter from Lombert Heedcroft as evidence. I should show the letter to Denia.
-INFO:13665168372443126854=You're from the Fighters Guild? So the bear is dead? Great work, I knew that you'll help me soon. I'll send my payment to your guild steward at once..
-INFO:1367871251047413707=I'm a warrior by trade. I know how to fight, when necessary, but I much rather look so tough that critters give up or run away when they see me. Of course I'm a member of the Fighters Guild.
-INFO:1369611878493413415=I gave a ruby to Thalemos, and he indeed was able to make the Grimward visible. It's a large forcefield that bars us from going trough. Thalemos thinks a spirit won't be blocked, and wants to try a spiritwalking ritual. He needs Theodistyr's help though, so I should return to Хавиш, and bring Theodistyr to this place.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1373214621549617712=I can't await to see Хавиш again %PCName.
 INFO:1376110266187838596=That little wretch stole my gloves.
 INFO:13764216271487128139=Fake glass? I swear I sent real glass to Хавиш. We made quite some profit so far. If you find out who's responsible for the loss of my glass and your скуума, and bring me the скуума, I'll forget my last shipment, and give you the скуума's worth in glass. I'll make a loss. But if your guild won't work together with me anymore, I'll lose more.
@@ -1048,28 +791,12 @@ INFO:139289413284514497=The Akaviri book describes how to activate the innate ma
 INFO:13934152262756122431=Very good. I'm ready, let's go.
 INFO:13941325961957818556=Thank you again for getting my gloves back %PCName.
 INFO:139413284411521502=Any news about this animal %PCName? The house shouldn't be too hard to find. It's the building south of Запотевшая Кружка inn.
-<<<<<<< HEAD
 INFO:13942325791245931142=I reported back to Берин and told him all I found out. There is nothing we can do about that lost shipment of course, but captain Hansol will continue to work with, so there will be other shipments soon. That traitor we uncovered could have done more damage to the guild.
 INFO:13945128808060236=Мастер Невакус:
 INFO:1396310184148998252=Хавиш is a big town. What kind of place do you have in mind?
 INFO:1396534913015721318=Wow, you were lucky this time %PCRace. Here's your ruby. Do you want to try your luck at another game of cups?
 INFO:13968213691178322203=Cerebrold gave me a talisman, that will force the ghost out of Рейна's body. I still have to fight the ghost, but Рейна won't be hurt.
 INFO:13975979831670104=Хавиш is a free city under imperial law. Unlike the settlements in Морровинд you'll find no imperial occupation troops here.
-=======
-INFO:13942325791245931142=I reported back to Berin and told him all I found out. There is nothing we can do about that lost shipment of course, but captain Hansol will continue to work with, so there will be other shipments soon. That traitor we uncovered could have done more damage to the guild.
-<<<<<<< HEAD
-INFO:13945128808060236=Мастер Невакус:
-INFO:1396310184148998252=Хавиш is a big town. What kind of place do you have in mind?
-INFO:1396534913015721318=Wow, you were lucky this time %PCRace. Here's your ruby. Do you want to try your luck at another game of cups?
-INFO:13968213691178322203=Cerebrold gave me a talisman, that will force the ghost out of Рейна's body. I still have to fight the ghost, but Рейна won't be hurt.
-=======
-INFO:13945128808060236=Master Nevachus:
-INFO:1396310184148998252=Хавиш is a big town. What kind of place do you have in mind?
-INFO:1396534913015721318=Wow, you were lucky this time %PCRace. Here's your ruby. Do you want to try your luck at another game of cups?
-INFO:13968213691178322203=Cerebrold gave me a talisman, that will force the ghost out of Reyna's body. I still have to fight the ghost, but Reyna won't be hurt.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:13975979831670104=Хавиш is a free city under imperial law. Unlike the settlements in Morrowind you'll find no imperial occupation troops here.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:140115513186004286=The warlock that was working at the lava pool didn't like my meddling. He attacked me, when I left the place.
 INFO:1401428051722731812=Ah, the dwemer bowl. Thank you %PCRank, I'd like too see Кулик's face when he finds out that the goblet is gone... What's this letter? Interesting... This  Edwyn Yeomston is another noble; the two families are rivals. This letter is a good evidence that Кулик betrays and steals from his master. Now we can blackmail him... Excellent work %PCName.
 INFO:14015247232257312720=Damned rats, a bunch of them plundered my stock of food and then vanished... Strange...
@@ -1083,22 +810,13 @@ INFO:1410134661207025452=Дж'Раширр is a Khajiit from Хавиш. He stol
 INFO:141222610083565843=Ah %PCName, do you have the ruby?
 INFO:141493169327049770=Tell me when you have any news.
 INFO:1415126025663411837=Drop the diamond near the lava pool in the mine. This will invoke the enchantment and seal the tunnel.
-<<<<<<< HEAD
 INFO:14175221211202721701=You found Норис Ллобен? Well, now bring him to Суран.
-=======
-<<<<<<< HEAD
-INFO:14175221211202721701=You found Норис Ллобен? Well, now bring him to Suran.
-=======
-INFO:14175221211202721701=You found Noris Lloben? Well, now bring him to Suran.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1418015033148406080=How much do you bet?                       ( Your dice: %ZH_Diag_dummy_2 / bet: %ZH_Diag_dummy drakes )
 INFO:1418198683256630906=They're much like any trade guild, I suppose. Why are you asking me?
 INFO:141870512744112996=All the enchantments are tuned for three mages working on them, now that there were only two of us left, we couldn't prevent every minor spawn of drake dream from escaping the Гримвард. This is what caused all the trouble around Хавиш.
 INFO:14197549138758695=How about a little visit to Поместье Хидкрофтов?
 INFO:1423232012964917542=* * Fighter's Guild * * *
 INFO:14236281672144830895=I'm just an egg miner.
-<<<<<<< HEAD
 INFO:14243143715782963=%PCName wants to know what %Name does in the guild? %Name is a smuggler and works for Берин Дорфи.
 INFO:142539252208612263=A member of the local Гильдия Воров approached me. It was Эрденис, the Bosmer that stole from me in the "Поцелуй Девицы" tavern. He knew that I'm the one who guards the warehouse tonight. Эрденис asked me to meet him in the alley behind the jeweler's shop tonight after nightfall, just before I take up my position near the warehouse.
 INFO:1426410884231924569=We can find our way on our own now right Рейна? Thank you for helping us %PCName.
@@ -1106,55 +824,20 @@ INFO:14276627319297344=Ah yes, this one is strong...
 INFO:143017276726825335=The magic power available to Алнестор and Пескил is incredible. I would have enjoyed helping them, but it seems that my fate lies elsewhere.
 INFO:143715838708114649=Yes, I'm a regular customer of Рейна. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything that'd hurt her.
 INFO:1438816796228994101=Once I've found something, I should head to Gnaar Mok, and talk to Валвели Арелас, the shipmaster there.
-=======
-<<<<<<< HEAD
-INFO:14243143715782963=%PCName wants to know what %Name does in the guild? %Name is a smuggler and works for Берин Дорфи.
-INFO:142539252208612263=A member of the local Гильдия Воров approached me. It was Эрденис, the Bosmer that stole from me in the Kissing Wench tavern. He knew that I'm the one who guards the warehouse tonight. Эрденис asked me to meet him in the alley behind the jeweler's shop tonight after nightfall, just before I take up my position near the warehouse.
-INFO:1426410884231924569=We can find our way on our own now right Рейна? Thank you for helping us %PCName.
-INFO:14276627319297344=Ah yes, this one is strong...
-INFO:143017276726825335=The magic power available to Алнестор and Пескил is incredible. I would have enjoyed helping them, but it seems that my fate lies elsewhere.
-INFO:143715838708114649=Yes, I'm a regular customer of Рейна. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything that'd hurt her.
-=======
-INFO:14243143715782963=%PCName wants to know what %Name does in the guild? %Name is a smuggler and works for Berin Dorfi.
-INFO:142539252208612263=A member of the local Гильдия Воров approached me. It was Эрденис, the Bosmer that stole from me in the Kissing Wench tavern. He knew that I'm the one who guards the warehouse tonight. Эрденис asked me to meet him in the alley behind the jeweler's shop tonight after nightfall, just before I take up my position near the warehouse.
-INFO:1426410884231924569=We can find our way on our own now right Reyna? Thank you for helping us %PCName.
-INFO:14276627319297344=Ah yes, this one is strong...
-INFO:143017276726825335=The magic power available to Алнестор and Пескил is incredible. I would have enjoyed helping them, but it seems that my fate lies elsewhere.
-INFO:143715838708114649=Yes, I'm a regular customer of Reyna. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything that'd hurt her.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:1438816796228994101=Once I've found something, I should head to Gnaar Mok, and talk to Valveli Arelas, the shipmaster there.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:143916797306665308=I'm %Name, the ebony miner.
 INFO:1440294261082122883=Ah, you really found a book in Nchuleft? Then maybe it's time to release my dwemer friend here. So... a Drake? Well, I don't know what a Drake is, but it doesn't sound that dangerous. I feared some forgotten Daedra Lord to be locked inside that Гримвард, but I think we can handle a restless soul that bends the laws of nature.
 INFO:144032912823228250=* * TG Initiation below * * *
 INFO:144157796286477419=Glad to help, %PCName. What can I do for you?
 INFO:14424168241924312601=By Oblivion... Yes, I love Nergel, but this doesn't interfere with my work on the wheel. I can't influence which number will fall, so my relation to Nergel is of no concern. He's just lucky you know. You shouldn't stick your nose into other peoples business.
 INFO:144329389300864235=How's hunting %PCName? Did you kill your share of the rats?
-<<<<<<< HEAD
 INFO:1445213115243206938=Талемос is so busy in his research, that he didn't even find the time to tell me how to reach his laboratory in the tower's roof. Well, I found out myself, and gave him the Soulgem he needs. He gave it back to me though - he has some other plans for it. Plans that involve my help of course..
-=======
-<<<<<<< HEAD
-INFO:1445213115243206938=Талемос is so busy in his research, that he didn't even find the time to tell me how to reach his laboratory in the tower's roof. Well, I found out myself, and gave him the Soulgem he needs. He gave it back to me though - he has some other plans for it. Plans that involve my help of course..
-=======
-INFO:1445213115243206938=Thalemos is so busy in his research, that he didn't even find the time to tell me how to reach his laboratory in the tower's roof. Well, I found out myself, and gave him the Soulgem he needs. He gave it back to me though - he has some other plans for it. Plans that involve my help of course..
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:144657129972816243=Now, of course you need to know a Soul Trap spell first. Let me teach you one. This one will cost you a bit more magicka as the standard spell does, but it's as reliable as a scroll or enchanted item: It will always succeed.
 INFO:1447724487693019323=And how much do you bet on red?
 INFO:14478247772736230349=Now that the crystals enclose this lava pool, we can be sure that no one will try this again. Theodistyr decided to stay with us. Пескил and I will be busy teaching him our knowledge. And he will tell us of today's magic. Much things are different today than they were in my time, the old ways had their advantages, as have the new.
 INFO:1448113542560026752=Get the money.
 INFO:14515226022043125867=How much do you bet?                       ( Your dice: %ZH_Diag_dummy_2 / bet: %ZH_Diag_dummy drakes )
-<<<<<<< HEAD
 INFO:14541784186329255=Go back to Гемандил. Offer her to work for the guild, or make her leave. Just don't cause too much trouble in the inn.
 INFO:145924546891513058=Please go back to Элерет, and ask her if she will meet me here.
-=======
-<<<<<<< HEAD
-INFO:14541784186329255=Go back to Гемандил. Offer her to work for the guild, or make her leave. Just don't cause too much trouble in the inn.
-=======
-INFO:14541784186329255=Go back to Gemandil. Offer her to work for the guild, or make her leave. Just don't cause too much trouble in the inn.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:145924546891513058=Please go back to Eleret, and ask her if she will meet me here.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1463312588951231625=(Before you can act, he vanishes trough the door.)
 INFO:1465857132296519855=I'm %Name, the publican here. I have a limited selection of goods for barter, and also have beds for rent.
 INFO:1466211944492113370=Okay, you bet 100 Drakes. Now let's roll the Колесо Фортуны.(She turns to the wheel...)
@@ -1165,27 +848,11 @@ INFO:147961187820904689=I see by your outfit, %PCName, that your affairs have pr
 INFO:148091065433722626=Now that wasn't exactly what I expected... Well, I suppose this really is the place where this Гримвард is, or WAS located. It was definitely upon this island. Go and look for this place %PCname. When you've found it, come back and show me the way.
 INFO:148243191290328930=Элерет already waited for us. Сафана is now a guild member.
 INFO:14840153701931829379=I have no time for you now. Please come back later.
-<<<<<<< HEAD
 INFO:14841282551143322653=Ignorance and arrogance will bring mankind's downfall... How dost thou feel Талемос?
 INFO:148512000539837366=Back from the bank %PCName? Where is the loot?
 INFO:14852297841660110299=Number %ZH_Diag_Dummy. Bad luck %PCName. Do you want to try the Колесо Фортуны again?
 INFO:148753242644524232=Yes %PCName, I think you are ready for the rank of %NextPCRank. Tell Элерет that you're ready for advancement.
 INFO:1498148591193827108=Невин Баран sent me to Игральные Кости tavern. The gambling business is financed by the Гильдия Воров, although Аманир, the tavern's owner, doesn't know it. There's a man named Nergel, who is suspicious lucky at the Колесо Фортуны game there. It's surely a manipulation, but Nevin doesn't know, how this could be done. I should talk to Nergel and Гемандил, the woman that operates the Wheel.
-=======
-<<<<<<< HEAD
-INFO:14841282551143322653=Ignorance and arrogance will bring mankind's downfall... How dost thou feel Талемос?
-INFO:148512000539837366=Back from the bank %PCName? Where is the loot?
-INFO:14852297841660110299=Number %ZH_Diag_Dummy. Bad luck %PCName. Do you want to try the Колесо Фортуны again?
-INFO:148753242644524232=Yes %PCName, I think you are ready for the rank of %NextPCRank. Tell Eleret that you're ready for advancement.
-INFO:1498148591193827108=Невин Баран sent me to Игральные Кости tavern. The gambling business is financed by the Гильдия Воров, although Аманир, the tavern's owner, doesn't know it. There's a man named Nergel, who is suspicious lucky at the Колесо Фортуны game there. It's surely a manipulation, but Nevin doesn't know, how this could be done. I should talk to Nergel and Гемандил, the woman that operates the Wheel.
-=======
-INFO:14841282551143322653=Ignorance and arrogance will bring mankind's downfall... How dost thou feel Thalemos?
-INFO:148512000539837366=Back from the bank %PCName? Where is the loot?
-INFO:14852297841660110299=Number %ZH_Diag_Dummy. Bad luck %PCName. Do you want to try the Колесо Фортуны again?
-INFO:148753242644524232=Yes %PCName, I think you are ready for the rank of %NextPCRank. Tell Eleret that you're ready for advancement.
-INFO:1498148591193827108=Nevin Baran sent me to Игральные Кости tavern. The gambling business is financed by the Гильдия Воров, although Amanir, the tavern's owner, doesn't know it. There's a man named Nergel, who is suspicious lucky at the Колесо Фортуны game there. It's surely a manipulation, but Nevin doesn't know, how this could be done. I should talk to Nergel and Gemandil, the woman that operates the Wheel.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:149861932761923418=One of my thieves might be in trouble.
 INFO:1499050522671722987=%Pcname, are you available? I need someone to guard a warehouse tonight.
 INFO:1501528763269012154=Do you have news about our скуума business %PCRank?
@@ -1199,18 +866,8 @@ INFO:15111101641866228119=So, Ergestin found an evidence that a Гримвард
 INFO:15120190121239619299=What a sight. A shame that all this knowledge was lost.
 INFO:1516023782519521752=Good that you saved the warehouse from burning to the ground, %PCName. The owner will be pleased, and continue to offer storage space to the Guild.
 INFO:15182446516558473=Number %ZH_Diag_Dummy! You have won. Here are your winnings. Do you want to try the Колесо Фортуны again?
-<<<<<<< HEAD
 INFO:1518525536808832=You found the Гримвард, and now Талемос needs my assistance for a spiritwalking ritual? Of course I'll help him, you just need to convince Дарбиен Эрдал to let me leave the laboratory.
 INFO:15204199472096932257=I led Талемос to the place I found, and he worked some spells that made a giant forcefield visible for a few seconds. He needs a ruby to amplify this spell, and asked me to bring him one.
-=======
-<<<<<<< HEAD
-INFO:1518525536808832=You found the Grimward, and now Талемос needs my assistance for a spiritwalking ritual? Of course I'll help him, you just need to convince Дарбиен Эрдал to let me leave the laboratory.
-INFO:15204199472096932257=I led Талемос to the place I found, and he worked some spells that made a giant forcefield visible for a few seconds. He needs a ruby to amplify this spell, and asked me to bring him one.
-=======
-INFO:1518525536808832=You found the Grimward, and now Thalemos needs my assistance for a spiritwalking ritual? Of course I'll help him, you just need to convince Darbien Erdal to let me leave the laboratory.
-INFO:15204199472096932257=I led Thalemos to the place I found, and he worked some spells that made a giant forcefield visible for a few seconds. He needs a ruby to amplify this spell, and asked me to bring him one.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1522021943523324268=Good work with those gloves %PCName.
 INFO:1522618908296392693=Hah! now it gets funny!
 INFO:152454436965517185=I have a well sorted library upstairs, containing books that are very rare in this region. Those Books are not for sale, but I'll give you access to my library for a one-time fee of 1000 Gold. Are you interested?
@@ -1232,17 +889,8 @@ INFO:15553206872419526344=Any news of your warehouse job?
 INFO:1555830390512511838=Yes, we have one available. It's 50 gold for the rest of the day. Do you want it?
 INFO:1556041752983518319=Эрденис gave me a Гильдия Воров job: There's a cache of smuggled goods in the southeastern warehouse at the docks. The citywatch is about to search the warehouse, but was ordered to wait until someone brings the key. I have about two hours to enter the warehouse and find the Гильдия Воров's storage.
 INFO:15578317962138723020=Yes, that's better...
-<<<<<<< HEAD
 INFO:156142209230258999=I tried to bully Мертаин Кулбриус but he wasn't impressed.
 INFO:15644267611506413422=The Поместье Клентона is clean. I should go back to Элерет, and tell her that we can begin with whatever she plans for the building.
-=======
-<<<<<<< HEAD
-INFO:156142209230258999=I tried to bully Мертаин Кулбриус but he wasn't impressed.
-=======
-INFO:156142209230258999=I tried to bully Mertian Culbrius but he wasn't impressed.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:15644267611506413422=The Поместье Клентона is clean. I should go back to Eleret, and tell her that we can begin with whatever she plans for the building.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1566327854243012000=Here are my Cards: You loose.(Dealer's cards: %ZH_BJ_Dealer                Your cards: %ZH_BJ_player)
 INFO:1568422675263617733=Caitlen was already in the guild's hideout. She was overjoyed when I gave her the ring back.
 INFO:15687104642147917292=Hello %PCName, thank you again for rescuing me.
@@ -1251,28 +899,12 @@ INFO:15711271131075710327=And so, about two centuries after this Гримвар�
 INFO:157116830199222462=The Fighters Guild is a professional organization chartered by the Emperor to regulate the hiring and training of mercenaries. Training, goods, and services are cheaper for members, and the Guild Stewards know where to find work.
 INFO:157291448811496446=Look for Меган Ломари and ask him about the murder.
 INFO:157399736975131082=His house is behind Златая Дева.
-<<<<<<< HEAD
 INFO:1574119261379519299=After a few minutes, the Гримвард changed it's appearance, and Талемос called me to cross the forcefield and enter the circle of protection. Inside a giant skeleton lies on the ground, and beside it were Талемос' ghost and two liches. Талемос introduced them to me as Алнестор and Пескил the guardians of the Гримвард.
-=======
-<<<<<<< HEAD
-INFO:1574119261379519299=After a few minutes, the Grimward changed it's appearance, and Талемос called me to cross the forcefield and enter the circle of protection. Inside a giant skeleton lies on the ground, and beside it were Талемос' ghost and two liches. Талемос introduced them to me as Алнестор and Пескил the guardians of the Grimward.
-=======
-INFO:1574119261379519299=After a few minutes, the Grimward changed it's appearance, and Thalemos called me to cross the forcefield and enter the circle of protection. Inside a giant skeleton lies on the ground, and beside it were Thalemos' ghost and two liches. Thalemos introduced them to me as Алнестор and Пескил the guardians of the Grimward.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:15766153841604323513=%PCName. Do you have the heirloom?
 INFO:157763955220293131=Did you get the payments from Lonas?
 INFO:15785125831609821963=I got the real drawing and brought it to Дения. She thanked me for finally finishing this job.
 INFO:158113144748493864=Гильдия Воров: The Колесо Фортуны
-<<<<<<< HEAD
 INFO:158182300323422476=Карус Варио was right, when he told me that this escort mission would pay well. 2500 Gold is a really good payment for a bit of traveling.
-=======
-<<<<<<< HEAD
-INFO:158182300323422476=Карус Варио was right, when he told me that this escort mission would pay well. 2500 Gold is a really good payment for a bit of traveling.
-=======
-INFO:158182300323422476=Carus Vario was right, when he told me that this escort mission would pay well. 2500 Gold is a really good payment for a bit of traveling.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:15847602223896303=That's... fair. Okay, listen...
 INFO:1585629843039518751=The Temple admires those who have the personality to lead others and the will to resist the world's temptations. When it cannot be avoided, we fight with staves and hammers, armored only in our faith. We study Restoration and Alchemy to heal the people and Mysticism to learn more of the divine. We must also study Conjuration to speak with the spirits of our ancestors and protect against those who traffic with the Four Corners.
 INFO:15878234491409424590=I don't think Эргестин Энкосте died because he was so scared of that bear. It's more likely, that this tough Ужас клана in his hut had a role in his death.
@@ -1281,7 +913,6 @@ INFO:1589666621815410347=Help! A beast!
 INFO:15901222172989214056=Too bad. Come back anytime.
 INFO:1590323720133099506=Here are my dice, you win.                  ( Your dice: %ZH_Diag_dummy_2 / Dealers dice: %ZH_Diag_dummy )
 INFO:15907161961319215165=Good job %PCName, we can't afford to loose good thieves like you or Caitlen. When the loot proves to be too hot, it's better to leave it behind and save your hide. I hope she learned the lesson.
-<<<<<<< HEAD
 INFO:1592813342457818442=Капитан Хансол thanked me for saving his life, and promised to continue smuggling for the Гильдия Воров, as soon as he has a new ship.
 INFO:159511777740528184=A few months ago, a shipment of smuggling goods vanished, and now Чебогг, the mate of the ship was seen in Хавиш. Берин sent me to Говин Хаморилл's house next to Гребаш' armorer shop. This is where the mate's spouse lives. I'm about to ask the mate what happened to the shipment.
 INFO:1595931336279981985=Come back when Aryon gave you some means to find this Гримвард.
@@ -1289,24 +920,6 @@ INFO:15978176942799822916=The messenger must have found out by now that the lett
 INFO:159909832075330270=Serve your time peaceably, and pay your debt to society.
 INFO:1600198951906120729=I'm offering certain services to our guests. I'm young and need the money.
 INFO:1602226850606629658=Артемис Энтрери owns a house somewhere in Хавиш. This is where I should meet him to deliver the information.
-=======
-<<<<<<< HEAD
-INFO:1592813342457818442=Капитан Хансол thanked me for saving his life, and promised to continue smuggling for the Гильдия Воров, as soon as he has a new ship.
-INFO:159511777740528184=A few months ago, a shipment of smuggling goods vanished, and now Чебогг, the mate of the ship was seen in Хавиш. Berin sent me to Говин Хаморилл's house next to Гребаш' armorer shop. This is where the mate's spouse lives. I'm about to ask the mate what happened to the shipment.
-=======
-INFO:1592813342457818442=Captain Hansol thanked me for saving his life, and promised to continue smuggling for the Гильдия Воров, as soon as he has a new ship.
-INFO:159511777740528184=A few months ago, a shipment of smuggling goods vanished, and now Чебогг, the mate of the ship was seen in Хавиш. Berin sent me to Gaweyn Hamorille's house next to Гребаш' armorer shop. This is where the mate's spouse lives. I'm about to ask the mate what happened to the shipment.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:1595931336279981985=Come back when Aryon gave you some means to find this Grimward.
-INFO:15978176942799822916=The messenger must have found out by now that the letter is gone, and will search for it on his own, before he goes to the citywatch and admits that he doesn't know if he lost that important message or if it was stolen. When Thelorn has finished the false letter, go back to the messenger.
-INFO:159909832075330270=Serve your time peaceably, and pay your debt to society.
-INFO:1600198951906120729=I'm offering certain services to our guests. I'm young and need the money.
-<<<<<<< HEAD
-INFO:1602226850606629658=Артемис Энтрери owns a house somewhere in Хавиш. This is where I should meet him to deliver the information.
-=======
-INFO:1602226850606629658=Artemis Entreri owns a house somewhere in Хавиш. This is where I should meet him to deliver the information.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16025235152663195=Oh. Goody, goody. Are you going to show me that thing you did again?
 INFO:16026206327929741=Bring me that vase. It's somewhere in Поместье Хидкрофтов.
 INFO:16027228191418416208=The Blight is gone. Completely. Blue skies over Red Mountain. We all owe you a debt of gratitude.
@@ -1317,80 +930,34 @@ INFO:16096276652631724303=Where you there %PCName? Is Caitlen still in the palac
 INFO:1609726741349810257=So this will be your next missions %PCName. Travel back to Vvardenfell, visit Aryon in Тель Вос and ask him for a means to detect a Гримвард. Also go to the dwemer ruins of Nchuleft in the mountains southwest of Тель Вос, and search for any old records there.
 INFO:1609811802165705963=I reported back to Cerebrold. He was as clueless about this lich as I was. The important thing is that the undead are gone.
 INFO:1611155268027548=However, they were dead for millennia when mankind first arrived on Tamriel. They indeed must have been powerful magic creatures, the imprint their existence left or reality still has an influence upon the natural laws. The dreams of the dead drake can bend reality, and cause chaos upon the world. Imagine the powers of those beings, when they were alive.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16131101301636222504=Let's go to the docks, I'm sure Капитан Сйорн is there.
 INFO:161315622560523330=I don't know exactly what a Гримвард is. Talk to Теодистир Хомоис down in the cellar. He should be able to tell you more.
 INFO:1614233614816496=Estoril told me a long story about the ring. Whoever owns it is the successor to Ronielle's throne. It's quite common in Ronielle to buy or steal that ring, and most likely more than one man was murdered for it. Estoril worked once in Ronielle, and was hired to make a copy of the original ring, that was destroyed during a succession war.
 INFO:1614411038172513779=I talked with this dunmer. He reacted a bit aggressive when I asked him about the murder.
 INFO:16161120023110028987=Д'Араджин saw Дарви Мерис wearing one of the amulets. She lives next to the citygate.
-<<<<<<< HEAD
-=======
-=======
-INFO:16131101301636222504=Let's go to the docks, I'm sure Captain Sjorne is there.
-INFO:161315622560523330=I don't know exactly what a Grimward is. Talk to Theodistyr Homeoise down in the cellar. He should be able to tell you more.
-INFO:1614233614816496=Estoril told me a long story about the ring. Whoever owns it is the successor to Ronielle's throne. It's quite common in Ronielle to buy or steal that ring, and most likely more than one man was murdered for it. Estoril worked once in Ronielle, and was hired to make a copy of the original ring, that was destroyed during a succession war.
-INFO:1614411038172513779=I talked with this dunmer. He reacted a bit aggressive when I asked him about the murder.
-INFO:16161120023110028987=D'Arajin saw Дарви Мерис wearing one of the amulets. She lives next to the citygate.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16171178922890531038=Bring me 100 emeralds from the jeweler's shop.
 INFO:1621116651713129558=This is where you come in %PCName. I promised Алнестор and Пескил that I'm helping them as good as I can, once I've returned to my body. Theodistyr can't move freely in Хавиш, so it's up to you, to find out what happens in the mine... I...What's... happening? Those are the Knights of the Circle members that arived in Хавиш recently.What are you doing?
 INFO:162356605876031883=Ah, %PCName. Flacassia Fauseius just finished the chamber in Vivec. Now you can cross the inner sea from Vivec to Хавиш without need of a ship. As reward for helping me, you can use my teleporter for free whenever you want.
 INFO:1624660881637712910=I deduct 21500 gold from your account. You deposit the money at an interest rate of 1.63%. The sum of 25000 gold will be added to your account after 10 days.
 INFO:16258186132637822399=The Гильдия Воров is just like any other guild -- it's just that their particular industry is crime. They offer special benefits to their members, bribe officials, and punish non-members. Just like any other guild.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1631311628910017124=Show the ring to Thelorn or finish the deal with Кинстарк, the client that waits in Цитадель.
 INFO:1632017107508832052=Алнестор told me his story. He and Пескил are members of an ancient mystic order. When men first arrived on Tamriel, there were many of those giant skeletons around. The elves avoided those places, because the dead beings, Алнестор calls them drakes, left an imprint upon the world, that causes all kinds of wild magic effects.
 INFO:163411973133867560=Find out who killed Девенир Хидкрофт.
 INFO:1636829101273065835=What? But I can't let Theodistyr go free, he's a vampire...
-<<<<<<< HEAD
 INFO:1637756702733128183=When I returned from Sadrith Mora, Артемис Энтрери waited for me near Цитадель. He wants to meet me near a ruin on the plateau to the northwest. He said that there is something he wants to tell me about the guild. Артемис asked me, not to tell Элерет that he's meddling with guild affairs.
-=======
-INFO:1637756702733128183=When I returned from Sadrith Mora, Артемис Энтрери waited for me near Цитадель. He wants to meet me near a ruin on the plateau to the northwest. He said that there is something he wants to tell me about the guild. Артемис asked me, not to tell Eleret that he's meddling with guild affairs.
-=======
-INFO:1631311628910017124=Show the ring to Thelorn or finish the deal with Kynstark, the client that waits in Цитадель.
-INFO:1632017107508832052=Алнестор told me his story. He and Пескил are members of an ancient mystic order. When men first arrived on Tamriel, there were many of those giant skeletons around. The elves avoided those places, because the dead beings, Алнестор calls them drakes, left an imprint upon the world, that causes all kinds of wild magic effects.
-INFO:163411973133867560=Find out who killed Devenyr Heedcroft.
-INFO:1636829101273065835=What? But I can't let Theodistyr go free, he's a vampire...
-INFO:1637756702733128183=When I returned from Sadrith Mora, Artemis Entreri waited for me near Цитадель. He wants to meet me near a ruin on the plateau to the northwest. He said that there is something he wants to tell me about the guild. Артемис asked me, not to tell Eleret that he's meddling with guild affairs.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16392226232605219562=I'm %Name, guild guide. I provide instantaneous transport to the Mages Guild halls on Vvardenfell. Beside the occasional merchantman that might take you aboard, my teleportation chamber is the only reliable way to travel to Vvardenfell.
 INFO:16394238191014020513=There are a lot of Grimwards spread around Tamriel, but this here was among the first. Later Grimwards are much more stable, and won't be effected by outside happenings, but this one isn't that far developed. With all the warfare in the region, we eventually had to chose someone to take care of the enchantments for the millennia to come.
 INFO:1639511923166417054=Luckily the undead in the city tombs were stopped, and the bodies put to rest again.
 INFO:163972736482849050=Yes, I think everyone is looking for advancement, the one way or the other.
 INFO:164107047111913885=I think, I'll wait for a better offer. Now excuse me, I have some work to do.
-<<<<<<< HEAD
 INFO:1643114552281121611=I'm running Цитадель and I'm a Taskmaster in the Guild. I control everything that involves amusement. Pubs, Gambling Dens, Brothels. The publicans of The "Поцелуй Девицы", The Broken Dice and Alaina from Дом Райских Наслаждений Аланы are reporting to me. You see I'm a quite important person in the guild, as all the public guild places are under my control.
 INFO:1644416853433922565=I'm in the Guild. A burglar. I report directly to Дения Генечус.
-=======
-INFO:1643114552281121611=I'm running Цитадель and I'm a Taskmaster in the Guild. I control everything that involves amusement. Pubs, Gambling Dens, Brothels. The publicans of The Kissing Wench, The Broken Dice and Alaina from Дом Райских Наслаждений Аланы are reporting to me. You see I'm a quite important person in the guild, as all the public guild places are under my control.
-<<<<<<< HEAD
-INFO:1644416853433922565=I'm in the Guild. A burglar. I report directly to Дения Генечус.
-=======
-INFO:1644416853433922565=I'm in the Guild. A burglar. I report directly to Denia Genechus.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16481229221652285=Any news about Artemis?
 INFO:16510650859723685=Is the Necromancer dead yet?
 INFO:1653917263310798428=I reported back to Эрденис, Caitlen already told him all. He thanked me for getting her out.
 INFO:1657113925240231542=Yeah, sure. I'm really afraid now.
 INFO:16589253052402920684=Meet him in the Lucky Lockup here in Balmora, he'll tell you everything you need to know.
-<<<<<<< HEAD
 INFO:1660910194188564800=I got the key from the Jeweler's guard. I must hurry to Телорн Сембиан now.
-=======
-<<<<<<< HEAD
-INFO:1660910194188564800=I got the key from the Jeweler's guard. I must hurry to Телорн Сембиан now.
-=======
-INFO:1660910194188564800=I got the key from the Jeweler's guard. I must hurry to Thelorn Semblan now.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1665719474267947118=Okay. Just remember that I can't leave the guildhall during the day.
 INFO:16665269842331631151=I'm Пескил, an Elementarist. Together with Алнестор I care for the Гримвард's enchantments.
 INFO:166742482681849379=Hello again, %PCName.
@@ -1398,85 +965,37 @@ INFO:1667927624318695=(He runs away and vanishes behind a corner before you can 
 INFO:16713988197156564=Do you have this dwemer soul? Without it I can't continue my research.
 INFO:1673241232262226072=I threated Мехиндрел, and he gave me the gloves.
 INFO:16742243783008018577=The Fighters Guild tower is at the east end of town, and the Mages Guild at the plaza to the west. The citywatch headquarters and the cityhall are to the northwest from the plaza; you'll also find the mine there. And if you head north from the plaza, you'll see the palace in the northwestern corner of town. Finally you can find the Order of Arkay temple and the tombs, when you cross the bridge to the small island at the northeastern corner of the city.
-<<<<<<< HEAD
 INFO:16744275942866512852=Haha, that's really great. You sold the ring to Кинстарк for 30000 gold, stole it back again, and then sold it to Leshir Moniesce? That's really great. You may keep half of the extra money, and here is one of my favorite potions for my fellow scoundrel.
-=======
-<<<<<<< HEAD
-INFO:16744275942866512852=Haha, that's really great. You sold the ring to Кинстарк for 30000 gold, stole it back again, and then sold it to Leshir Moniesce? That's really great. You may keep half of the extra money, and here is one of my favorite potions for my fellow scoundrel.
-=======
-INFO:16744275942866512852=Haha, that's really great. You sold the ring to Kynstark for 30000 gold, stole it back again, and then sold it to Leshir Moniesce? That's really great. You may keep half of the extra money, and here is one of my favorite potions for my fellow scoundrel.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:16748255781637123997=Tell me when you find out something in the mines.
 INFO:1675512242267605311=Ah %PCName, we're already waiting for you. Take a pick and help us.
 INFO:167896057211787492=You're no sister of mine, at least none that I know of. Thief you might be, but you better not play the game while around here. Tombs are full of players that were no kin. If you want to belong, meet me in the alley behind the jeweler's shop after nightfall. (He leaves.)
 INFO:1679157462160913494=This job was a test of my honesty. I delivered everything I took from the warehouse to Эрденис, and he offered me to join the local Гильдия Воров.
-<<<<<<< HEAD
 INFO:1679424591540024981=Невин Баран was pleased how I solved this job. By convincing Гемандил to become a Guild member, the Guild now has an ally in Игральные Кости’s staff.
-=======
-<<<<<<< HEAD
-INFO:1679424591540024981=Невин Баран was pleased how I solved this job. By convincing Гемандил to become a Guild member, the Guild now has an ally in Игральные Кости’s staff.
-=======
-INFO:1679424591540024981=Nevin Baran was pleased how I solved this job. By convincing Gemandil to become a Guild member, the Guild now has an ally in Игральные Кости’s staff.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1685012815194413940=What? No, I don't work like this. I get in, kill the target and leave without any trace beside the body. I wouldn't have survived that long if I ever had messed with the local syndicates.
 INFO:168581669432631266=%PCName. Any news about Аварис Ромбиер and the last of the amulets?
 INFO:1685823157104944585=The mate is dead? Murdered? There might be more of this. Go back, maybe you find a trace to the murderer?
 INFO:16871197233060217175=I found the crate, Эрденис sent me for.
 INFO:16962024249685605=Come again.
 INFO:169713099323910403=I fear I have no other jobs for you %PCName.
-<<<<<<< HEAD
 INFO:16983259532212526605=Try to find out what's going on in the mine. I will inform Дарбиен Эрдал.
-=======
-<<<<<<< HEAD
-INFO:16983259532212526605=Try to find out what's going on in the mine. I will inform Дарбиен Эрдал.
-=======
-INFO:16983259532212526605=Try to find out what's going on in the mine. I will inform Darbien Erdal.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:169951579511437889=You rescued Сандибал Мегестин? Good work %PCRank. I hope from now on he'll think twice before going out on adventure. Here, take these 1000 Gold as payment.
 INFO:1700920116128105704=Good work %PCName, we can use this diary to blackmail Данте, but there's still the issue with the real drawing. The diary mentions a secret chamber in the storeroom. Go back and find this room. If you're unable to pick the lock, try to fetch the key from Данте. He spends his nights in the "Поцелуй Девицы" tavern.
 INFO:1702324764377415010=If you're looking for the Fighter's Guild Headquarters here in Хавиш, it's easy to find. Just follow the main street from the grand plaza to the east. The Fighter's Guild is in the old windowless tower next to the sea.
 INFO:17025241091140427017=This could be the man I saw down in the underworks.
 INFO:1703075213151210617=A city on an island somewhere to the west. Guild guides can't transport you across the inner sea, so you can reach Хавиш only by boat.
 INFO:1703426906302691758=Okay, Okay no need for violence I'll tell you, listen...
-<<<<<<< HEAD
-INFO:1704316741159220473=I once saw Nergel and Гемандил together, they walked hand in hand and went to a dark corner. I wasn't that curious to follow them, but I wonder if it's allowed that Гемандил meets with the club's customers, especially with one like Nergel that wins all the time.
-=======
-<<<<<<< HEAD
 INFO:1704316741159220473=I once saw Nergel and Гемандил together, they walked hand in hand and went to a dark corner. I wasn't that curious to follow them, but I wonder if it's allowed that Гемандил meets with the club's customers, especially with one like Nergel that wins all the time.
 INFO:170571109652381111=I'm an officer of the citywatch.
 INFO:1706229748702519806=He had one useful information though. In Nchuleft his people kept lots of records. Technical information as well as tactical records of their wars against dunmer, humans and dremora, if there are any information about forbidden places, they must be there.
 INFO:17098104802460212291=Go and search Эргестин Энкосте's house. It's near the docks, next to Цитадель Tavern. Bring me whatever documents you find.
 INFO:17175108872276023097=Rats infested Хавиш, and Карус Варио wants my help in getting rid of them. My order is to find and kill at least 30 rats, and bring their tails back to Карус Варио.
-=======
-INFO:1704316741159220473=I once saw Nergel and Gemandil together, they walked hand in hand and went to a dark corner. I wasn't that curious to follow them, but I wonder if it's allowed that Gemandil meets with the club's customers, especially with one like Nergel that wins all the time.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
-INFO:170571109652381111=I'm an officer of the citywatch.
-INFO:1706229748702519806=He had one useful information though. In Nchuleft his people kept lots of records. Technical information as well as tactical records of their wars against dunmer, humans and дремора, if there are any information about forbidden places, they must be there.
-INFO:17098104802460212291=Go and search Эргестин Энкосте's house. It's near the docks, next to Цитадель Tavern. Bring me whatever documents you find.
-<<<<<<< HEAD
-INFO:17175108872276023097=Rats infested Хавиш, and Карус Варио wants my help in getting rid of them. My order is to find and kill at least 30 rats, and bring their tails back to Карус Варио.
-=======
-INFO:17175108872276023097=Rats infested Хавиш, and Carus Vario wants my help in getting rid of them. My order is to find and kill at least 30 rats, and bring their tails back to Carus Vario.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1719278451203723885=So Farien lured the ship into a trap? You say that captain Hansol will continue to work with us when he has a new ship? Good, he's one of my best contacts. Well, we know now what happened to our shipment. And I will make sure that something like that doesn't happen again.
 INFO:1720521052320835530=Yes, we have one available. It's 10 gold for the rest of the day. Do you want it?
 INFO:1722012402487716912=Sadrith Mora... Have you ever met one of those funny Telvanni? Well, you can use the teleport chamber when you're ready.
 INFO:17223185101996014251=Ah yes this one is mean...
 INFO:17223198271245921314=The magic will only work outside, and the enchantment will cause the pearls to teleport themselves back into your pockets when you drop them at the wrong place, so this should be an easy job for someone like you. Just travel to each of the four cities, and drop one of the pearls there. Come back when you've placed all of the crystal-seeds.
 INFO:172232408249016789=Did you notice that there are no dwemer ruins around Хавиш? I wonder why they never settled here.
-<<<<<<< HEAD
 INFO:1725919210159194102=I just heard that Рейна is back. Good work %PCName. Too bad that Марик Реинесте had to die, he was a good customer.
-=======
-<<<<<<< HEAD
-INFO:1725919210159194102=I just heard that Рейна is back. Good work %PCName. Too bad that Марик Реинесте had to die, he was a good customer.
-=======
-INFO:1725919210159194102=I just heard that Reyna is back. Good work %PCName. Too bad that Marick Reineste had to die, he was a good customer.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:17263182812058527051=OK, you draw a new card, I stand.
 INFO:17264216893016416337=Ah, %PCName. You are investigating the mine? I heard there is a closed tunnel, maybe this is where you should start your search.
 INFO:17264659714636487=They cared about the Гримвард for about four thousand years, until about half a year ago the Гримвард began to destabilize. Something is happening in the mine that disturbs the Гримвард's enchantments. Эссендир, one of Алнестор's group was influenced by those disturbances more than the others, he slowly lost his mind, and eventually left his comrades.
@@ -1493,15 +1012,7 @@ INFO:1739615935188477114=Брокк no goblin anymore. Брокк now mighty bri
 INFO:1740232330320594215=How may I help thee %PCName?
 INFO:1741720916262844085=Do you have any Idea what to do about this ice cube?
 INFO:1743187193009125581=How much Gold do you want to deposit?
-<<<<<<< HEAD
 INFO:17437290481803710834=I killed Гемандил. She will no longer cheat at any game.
-=======
-<<<<<<< HEAD
-INFO:17437290481803710834=I killed Гемандил. She will no longer cheat at any game.
-=======
-INFO:17437290481803710834=I killed Gemandil. She will no longer cheat at any game.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:17445217712557419679=Caitlen didn't want to leave without the ring, but I convinced her, that it's better to loose the ring than her live. She gave me the ring. Now it's up to me, whether I leave the ring behind or try to get it out. Maybe I can find a way around the guards at the main entrance.
 INFO:174496422978012068=This job was a test of my honesty, and I failed. I tried to keep a share of the goods I took from the warehouse, but Эрденис noticed that something was missing. I don't think the local Гильдия Воров will give me a second chance.
 INFO:1748828286291974174=Okay, you bet 100 Drakes. Now let's roll the Колесо Фортуны.(He turns to the wheel...)
@@ -1519,16 +1030,9 @@ INFO:17630148022553030534=Ah, the smartass...
 INFO:1764713799156095594=Sorry, minimum bet is 50 Drakes, come back when you have more gold.
 INFO:17650160681502921802=* * TG Initiation below * * *
 INFO:176620424408412465=I found the skull, and brought it to Cerebrold, the high priest of the Order of Arkay.
-<<<<<<< HEAD
 INFO:176643059148931182=Капитан Хансол wasn't much friendlier than his mate, but at least he told me his story: One of the Guild members told him to change his travel route for a short stop on Azura's Coast. It was a trap, imperial Battleships already waited, the ship was confiscated and the crew arrested.
 INFO:1766765938112758=And how much do you bet on your rat?
 INFO:17686534311663970=Have you talked to Элерет?
-INFO:1769930779107368446=Валерия Ниструс of the Mages Guild told me, that she brought Артемис to Vvardenfell. His destination was Vivec, I should follow him before I loose his track.
-=======
-<<<<<<< HEAD
-INFO:176643059148931182=Капитан Хансол wasn't much friendlier than his mate, but at least he told me his story: One of the Guild members told him to change his travel route for a short stop on Azura's Coast. It was a trap, imperial Battleships already waited, the ship was confiscated and the crew arrested.
-INFO:1766765938112758=And how much do you bet on your rat?
-INFO:17686534311663970=Have you talked to Eleret?
 INFO:1769930779107368446=Валерия Ниструс of the Mages Guild told me, that she brought Артемис to Vvardenfell. His destination was Vivec, I should follow him before I loose his track.
 INFO:17709121151210419974=Word of your accomplishments has spread fast. You are ready for advancement.
 INFO:17709182153118617670=%PCName. Were you successful in robbing the jeweler's shop?
@@ -1537,24 +1041,6 @@ INFO:1777968273019924270=You honor %Name with your visit.
 INFO:1780425423323220765=I finally caught Артемис. Instead of some sinister allies, this time two officers of the Imperial Legion fought on his side. I don't know what he told them or if he just bribed them, but now that Artemis is dead, I think I should keep my head low and try to get back to Хавиш secretly.
 INFO:17811293342653310724=We took care of this messenger %PCName.
 INFO:178261493168666671=Did you bring the gloves to Мебрин Виинфорд?
-=======
-INFO:176643059148931182=Captain Hansol wasn't much friendlier than his mate, but at least he told me his story: One of the Guild members told him to change his travel route for a short stop on Azura's Coast. It was a trap, imperial Battleships already waited, the ship was confiscated and the crew arrested.
-INFO:1766765938112758=And how much do you bet on your rat?
-INFO:17686534311663970=Have you talked to Eleret?
-INFO:1769930779107368446=Valeria Nistrus of the Mages Guild told me, that she brought Артемис to Vvardenfell. His destination was Vivec, I should follow him before I loose his track.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
-INFO:17709121151210419974=Word of your accomplishments has spread fast. You are ready for advancement.
-INFO:17709182153118617670=%PCName. Were you successful in robbing the jeweler's shop?
-INFO:177362285635829137=Don't insult me. Leinholm! This... gentleman wants to leave our house.
-INFO:1777968273019924270=You honor %Name with your visit.
-INFO:1780425423323220765=I finally caught Артемис. Instead of some sinister allies, this time two officers of the Imperial Legion fought on his side. I don't know what he told them or if he just bribed them, but now that Artemis is dead, I think I should keep my head low and try to get back to Хавиш secretly.
-INFO:17811293342653310724=We took care of this messenger %PCName.
-<<<<<<< HEAD
-INFO:178261493168666671=Did you bring the gloves to Мебрин Виинфорд?
-=======
-INFO:178261493168666671=Did you bring the gloves to Mebrean Weenford?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:17832134721613931259=You're willing to make amends? Well, 1000 drakes might be a start.
 INFO:17834269101404215527=In a way yes, but there is no intend, neither good or evil, and no sentience behind all of this. It's more like a campfire that went out of control when nobody cared about it. As the Drake died, a part of it's soul was bound to this place. It's dreams of dead still have effects upon the world.
 INFO:1783676131620823434=You placed the letter back into the messenger's pockets? That's the spirit! Hehe, imagine the messenger finding out that the letter suddenly is back in his pockets again. Good work %PCName, that information about the prince and his heirloom might prove very useful later. I see you are a thief at heart just like myself, so you might have use for another of these potions.
@@ -1563,61 +1049,28 @@ INFO:179111778348426056=But you won't find him if I don't tell you...
 INFO:1792028234286848936=So the messenger took the letter without questions? Well I suppose he was glad to have it back. Good work %PCName, that information about the prince and his heirloom might prove very useful later.
 INFO:17968269882086010498=Ah, excellent. This one will do fine. Here, take these soulgems in exchange, maybe you find some use for them. Now, that ghost will keep me busy for a while... Please excuse me.
 INFO:17969307663274014957=Some cruel bastard slaughtered a whole wolf family up in the plateau to the northwest.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:17975292332932927980=Карус Варио wasn't pleased that the Warehouse burnt out. I got no payment for the job, but at least nobody suspects that I'm the one who laid the fire.
 INFO:179974351157589188=The guild has an arrangement with Irgola in Caldera. Irgola smuggles glass to Хавиш, and gets shipments of Skooma back from the Гильдия Воров. The last shipment of glass was a worthless waste product of glass mining, so Берин sent me to Khuul. There I should dive under a ship and remove the скуума from a small chests placed under the keel. When I have the скуума, and still are in the mood to travel, I could also visit Irgola in Caldera, and ask him, why he tried to betray the guild.
 INFO:1799745922922932045=Гильдия Воров: The Рисунок
 INFO:1800719259303795982=Now that those tunnels are permanently closed, I will sleep easier again. Король Лето is a trustworthy man, but he can't guard this lava pool himself, and he won't rule forever. I fear sooner or later someone would have continued to try cooling down the lava and get the ebony.
 INFO:1805423171252967938=Habasi asked me to find a Khajiit named Дж'Раширр, who can be found somewhere here in Balmora. Дж'Раширр has some information about a weapon that was stolen from Артемис Энтрери, a friend of Habasi who lives in Хавиш. When I've found Дж'Раширр, I should try to convince him to tell me where the weapon is, I also could try to pick his pockets, to see if I find something useful.
-<<<<<<< HEAD
-=======
-=======
-INFO:17975292332932927980=Carus Vario wasn't pleased that the Warehouse burnt out. I got no payment for the job, but at least nobody suspects that I'm the one who laid the fire.
-INFO:179974351157589188=The guild has an arrangement with Irgola in Caldera. Irgola smuggles glass to Хавиш, and gets shipments of Skooma back from the Гильдия Воров. The last shipment of glass was a worthless waste product of glass mining, so Berin sent me to Khuul. There I should dive under a ship and remove the skooma from a small chests placed under the keel. When I have the skooma, and still are in the mood to travel, I could also visit Irgola in Caldera, and ask him, why he tried to betray the guild.
-INFO:1799745922922932045=Гильдия Воров: The Рисунок
-INFO:1800719259303795982=Now that those tunnels are permanently closed, I will sleep easier again. King Leto is a trustworthy man, but he can't guard this lava pool himself, and he won't rule forever. I fear sooner or later someone would have continued to try cooling down the lava and get the ebony.
-INFO:1805423171252967938=Habasi asked me to find a Khajiit named Дж'Раширр, who can be found somewhere here in Balmora. Дж'Раширр has some information about a weapon that was stolen from Artemis Entreri, a friend of Habasi who lives in Хавиш. When I've found Дж'Раширр, I should try to convince him to tell me where the weapon is, I also could try to pick his pockets, to see if I find something useful.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:18056224952473631782=Let's travel to Ald Velothi, and then continue to Хавиш.
 INFO:1813210235569613036=Have you found this Bosmer and the gloves?
 INFO:1814176532963245=Well, this time we have a client that says a bear managed to get into his house. It's strange that nobody spots these beasts while strolling trough the streets, there is no trace how they get into the buildings. They appear randomly out of nothing and seem to be as confused by the situation as the house owners are.
 INFO:18172865263689442=I didn't destroy the evidences in the Warehouse. I botched my first job for the local Гильдия Воров, and I doubt that they will give me a second chance.
-<<<<<<< HEAD
 INFO:1820828480964027887=Back again %PCName? What about the wild animal in М'Хашур's house?
 INFO:1823335601813732551=You will? Good, let's face her and put her to rest. I hope we don't have to hurt poor Рейна.
-=======
-<<<<<<< HEAD
-INFO:1820828480964027887=Back again %PCName? What about the wild animal in М'Хашур's house?
-INFO:1823335601813732551=You will? Good, let's face her and put her to rest. I hope we don't have to hurt poor Рейна.
-=======
-INFO:1820828480964027887=Back again %PCName? What about the wild animal in M'Hashur's house?
-INFO:1823335601813732551=You will? Good, let's face her and put her to rest. I hope we don't have to hurt poor Reyna.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1823513458155523922=A nice game... you can either bet on a color red or black, or on a number from 1 to 16. If the wheel comes to a halt at your color or number, you have won. Your winning rate is 3:2 when you bet on a color, and 15:1 when you bet on a number. So what shall it be, color or number?
 INFO:18241321621173323352=You... You really bring me that ring back? Thank you so much %PCName.
 INFO:1824313232616226737=Ah %PCName, good job in helping Caitlen. I see you really managed to get the ring out of the palace? Hope you didn't get too much trouble. Thank you, this ring will bring quite some coin.
 INFO:18262140381523019827=You gave me that letter right? I'm Сафана, I broke into the house your letter told of, but there was nothing, no trace of those золотые панталоны I was supposed to steal.
-<<<<<<< HEAD
 INFO:183123881282617014=Yes, I'm a regular customer of Рейна. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything... The other missing girls? Yes, I knew them also. What are you implying? Please believe me I never did any harm to them.
-=======
-<<<<<<< HEAD
-INFO:183123881282617014=Yes, I'm a regular customer of Рейна. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything... The other missing girls? Yes, I knew them also. What are you implying? Please believe me I never did any harm to them.
-=======
-INFO:183123881282617014=Yes, I'm a regular customer of Reyna. A shame that she's missing. Please believe me, I know nothing of this. I'm really fond of her and wouldn't do anything... The other missing girls? Yes, I knew them also. What are you implying? Please believe me I never did any harm to them.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:18326121601891623440=How much Gold do you want to withdraw?
 INFO:18368266173204311561=Mages Guild: Soulgem Express
 INFO:18380326621650411127=Since the trade is void, I want you to travel to Khuul, and secure our скуума shipment, before Irgola, our Vvardenfell contact, can get it. The скуума is in small crates under a boat's keel there.  After getting the скуума, you could also visit Irgola in his shop in Caldera, and ask him why he tried to cheat us.
 INFO:1840186172038631037=I did. Too bad that you were so fast back in Хавиш, and found the mate before I could destroy all traces. Bad for you, that you found the captain before me. Now I have to kill both of you.
 INFO:1840416887295742101=(He leaves...)
 INFO:18406637874829492=A frontier town in the past, and the last free bastion near occupied territory today. Other than the kingdoms in the east, Хавиш newer grew really big. But nonetheless we're one of the biggest cities in the region.
-<<<<<<< HEAD
 INFO:18423232802310529497=Берегост, the Heedcroft's housekeeper, had an interesting tale to tell. He was given a day off, but he got the order to be back just at the same time when I was supposed to leave with the vase. Берегост was to late and didn't meet me, but he found the body of Девенир Хидкрофт, and noticed the missing vase.
 INFO:1842910922308311769=Aryon gave you this spell? Finally we make some progress. Let me see this spell... Yes, I have everything here for the ritual, and we know that no horrible creature will awaken when we cast the spell.
 INFO:1844429255289127694=The Fighters Guild is just what its name implies -- an order for lances for hire and other mercenaries.
@@ -1637,46 +1090,6 @@ INFO:18671267582350332179=Well, the Череп Керфоса is actually exactl
 INFO:18705129951318610673=Well, you're right %PCName. Theodistyr is no prisoner, and I know that he means no harm to anyone. I think I just want to protect him. Not all people in Хавиш are that tolerant to vampires, you know. Take Theodistyr with you %PCName, the forcefield will open for him now.
 INFO:187682425162285988=How may I help you?
 INFO:18770130143098025639=There are rumors about strange happenings here in Хавиш.
-=======
-<<<<<<< HEAD
-INFO:18423232802310529497=Берегост, the Heedcroft's housekeeper, had an interesting tale to tell. He was given a day off, but he got the order to be back just at the same time when I was supposed to leave with the vase. Берегост was to late and didn't meet me, but he found the body of Девенир Хидкрофт, and noticed the missing vase.
-INFO:1842910922308311769=Aryon gave you this spell? Finally we make some progress. Let me see this spell... Yes, I have everything here for the ritual, and we know that no horrible creature will awaken when we cast the spell.
-INFO:1844429255289127694=The Fighters Guild is just what its name implies -- an order for lances for hire and other mercenaries.
-INFO:1844511964428811429=They were highly magical beings, that existed long before man or mer appeared on the face of the world. It is said that they were already a old and dying race, when even the dragons were young, but there is nobody left to testify such theories. All we know of the Drakes is that they must have been gigantic biped reptilians, not unlike the Argonians.
-INFO:18469280272083018658=I reported back to Дарбиен Эрдал, and showed him Эргестин Энкосте's notes about that Grimward. He didn't understand more about this than I did, so he suggested, that I go and meet someone named Теодистир Хомоис, whose laboratory is down in the cellar of the guildhall, beyond that forcefield in the lyceum.
-INFO:18493312754885756=It seems all the missing girl were in bed with Марик Реинесте before they vanished.
-INFO:1850466872951717084=If you want to get to Хавиш, you can travel with me.
-INFO:1857149488133528=Ah, welcome back %PCName, here is your salary for the last %ZH_Diag_Dummy days.
-INFO:1858723539241082309=You're no brother of mine, at least none that I know of. Thief you might be, but you better not play the game while around here. Tombs are full of players that were no kin. If you want to belong, meet me in the alley behind the jeweler's shop after nightfall. (He leaves.)
-INFO:18599261312693825921=Карус Варио decided to be more aggressive against this animal threat. He sent me out to the wilderness to find and kill a pack of six wolves. Those wolves aren't native to Kathaer Island, and seem to be much stronger, so I should be careful. The wolf pack was last seen on the plateau in the mountains northwest of Хавиш. After killing the animals, I should bring their pelts back to Карус Варио.
-INFO:1860115659664126649=It works. My modified detect enchantment spell makes the Grimward visible, but I see no way to penetrate the barrier. On the other hand... A incorporate soul might not be barred by the forcefield... %PCName, please go back to Хавиш, and bring Theodistyr to me, I need his assistance for a spiritwalking ritual.
-INFO:186329645273131957=Талемос isn't dead. He was in an incorporate state when his body died, and the Grimward severed the connection to his body. He'll have much to learn about his new state though. Before the incident with the knights, Талемос wanted to help Алнестор and Пескил to keep the Grimward stable, but now that he has no longer a body he can't help them anymore, so Theodistyr volunteered to stay in the Grimward.
-INFO:18634239362078519454=Ah, %PCName... What about this freelancer? Сафана was her name right?
-INFO:18666115628719882=* * Mages guild / Main quest * * *
-INFO:186671573264425338=Did you speak with Лонас Ромарен? What did he say?
-=======
-INFO:18423232802310529497=Beregost, the Heedcroft's housekeeper, had an interesting tale to tell. He was given a day off, but he got the order to be back just at the same time when I was supposed to leave with the vase. Beregost was to late and didn't meet me, but he found the body of Devenyr Heedcroft, and noticed the missing vase.
-INFO:1842910922308311769=Aryon gave you this spell? Finally we make some progress. Let me see this spell... Yes, I have everything here for the ritual, and we know that no horrible creature will awaken when we cast the spell.
-INFO:1844429255289127694=The Fighters Guild is just what its name implies -- an order for lances for hire and other mercenaries.
-INFO:1844511964428811429=They were highly magical beings, that existed long before man or mer appeared on the face of the world. It is said that they were already a old and dying race, when even the dragons were young, but there is nobody left to testify such theories. All we know of the Drakes is that they must have been gigantic biped reptilians, not unlike the Argonians.
-INFO:18469280272083018658=I reported back to Darbien Erdal, and showed him Эргестин Энкосте's notes about that Grimward. He didn't understand more about this than I did, so he suggested, that I go and meet someone named Theodistyr Homeoise, whose laboratory is down in the cellar of the guildhall, beyond that forcefield in the lyceum.
-INFO:18493312754885756=It seems all the missing girl were in bed with Marick Reineste before they vanished.
-INFO:1850466872951717084=If you want to get to Хавиш, you can travel with me.
-INFO:1857149488133528=Ah, welcome back %PCName, here is your salary for the last %ZH_Diag_Dummy days.
-INFO:1858723539241082309=You're no brother of mine, at least none that I know of. Thief you might be, but you better not play the game while around here. Tombs are full of players that were no kin. If you want to belong, meet me in the alley behind the jeweler's shop after nightfall. (He leaves.)
-INFO:18599261312693825921=Carus Vario decided to be more aggressive against this animal threat. He sent me out to the wilderness to find and kill a pack of six wolves. Those wolves aren't native to Kathaer Island, and seem to be much stronger, so I should be careful. The wolf pack was last seen on the plateau in the mountains northwest of Хавиш. After killing the animals, I should bring their pelts back to Carus Vario.
-INFO:1860115659664126649=It works. My modified detect enchantment spell makes the Grimward visible, but I see no way to penetrate the barrier. On the other hand... A incorporate soul might not be barred by the forcefield... %PCName, please go back to Хавиш, and bring Theodistyr to me, I need his assistance for a spiritwalking ritual.
-INFO:186329645273131957=Thalemos isn't dead. He was in an incorporate state when his body died, and the Grimward severed the connection to his body. He'll have much to learn about his new state though. Before the incident with the knights, Thalemos wanted to help Алнестор and Пескил to keep the Grimward stable, but now that he has no longer a body he can't help them anymore, so Theodistyr volunteered to stay in the Grimward.
-INFO:18634239362078519454=Ah, %PCName... What about this freelancer? Сафана was her name right?
-INFO:18666115628719882=* * Mages guild / Main quest * * *
-INFO:186671573264425338=Did you speak with Lonas Romaren? What did he say?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:18671267582350332179=Колодец, the Череп Керфоса is actually exactly this: Керфос' skull. There are old tales about a necromancer named Керфос that like many of his kind chose to become a lich instead of accepting his mortality. According to the texts, the lich Керфос continued his studies for several centuries. Eventually Керфос' soul separated from the skeletal body and left this world.
-INFO:18705129951318610673=Колодец, you're right %PCName. Theodistyr is no prisoner, and I know that he means no harm to anyone. I think I just want to protect him. Not all people in Хавиш are that tolerant to vampires, you know. Take Theodistyr with you %PCName, the forcefield will open for him now.
-INFO:187682425162285988=How may I help you?
-INFO:18770130143098025639=There are rumors about strange happenings here in Хавиш.
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1879691081730526657=Карус Варио thanked me for rescuing Сандибал Мегестин, and paid me well for the task.
 INFO:18804320401073111024=Haha, that's great. You sold the ring to Leshir Moniesce, stole it again, and then sold it to Кинстарк for 30000 gold? That's really great. You may keep half of the extra money, and here is one of my favorite potions for my fellow scoundrel.
 INFO:1881626012170230497=Are you %PCName, the %PCRank that is supposed to escort me to Хавиш? My name is Талемос, nice to meet you.
@@ -1685,22 +1098,7 @@ INFO:188310457272779580=Our Гильдия Воров isn't that strictly regula
 INFO:1883233823122615887=Back again %PCName? Are you done in the Поместье Клентона?
 INFO:1884498992206819808=What about it? The king ordered to stop the work down there, and so we did. It's a shame not to take this ebony, but it's his majesty's will.
 INFO:1885123136242002949=Since Андре Маул is dead, and I didn't find any traces Невин Баран decided to let Гемандил and Nergel continue with whatever they're doing.
-<<<<<<< HEAD
 INFO:18851233361112923841=So she got our message? Good. Did you read it %PCName? It tells Сафана to steal the золотые панталоны from Гилмарил's House. While you brought the letter to Сафана, another guild member already sneaked into the house and placed another note under the pantaloons. This note tells Сафана to meet you in the "Поцелуй Девицы" at six in the evening. So your next job is to be there in time, take the pantaloons from Сафана and bring her to our hideout.
-=======
-INFO:18851233361112923841=So she got our message? Good. Did you read it %PCName? It tells Сафана to steal the золотые панталоны from Гилмарил's House. While you brought the letter to Сафана, another guild member already sneaked into the house and placed another note under the pantaloons. This note tells Сафана to meet you in the Kissing Wench at six in the evening. So your next job is to be there in time, take the pantaloons from Сафана and bring her to our hideout.
-=======
-INFO:1879691081730526657=Carus Vario thanked me for rescuing Сандибал Мегестин, and paid me well for the task.
-INFO:18804320401073111024=Haha, that's great. You sold the ring to Leshir Moniesce, stole it again, and then sold it to Kynstark for 30000 gold? That's really great. You may keep half of the extra money, and here is one of my favorite potions for my fellow scoundrel.
-INFO:1881626012170230497=Are you %PCName, the %PCRank that is supposed to escort me to Хавиш? My name is Thalemos, nice to meet you.
-INFO:1882527660194197435=When I told Berin that Avos Ulvani sells the cheap skooma, he seemed to be a bit surprised, since this Avos Ulvani is here in town right now. Avos Ulvani is known to be a Camonna Tong member, but was tolerated so far. Now this business turns out to become an assassination job: Berin sent me to search and kill Avos Ulvani. He should be somewhere on the streets here in Хавиш. So I best follow him to a dark corner.
-INFO:188310457272779580=Our Гильдия Воров isn't that strictly regulated as other guilds in smaller towns. While in the small Vvardenfell towns one guildmaster cares about all kinds of guild work, there are so many opportunities in a city like Хавиш, that one person can't manage to control it all. One could say that our Гильдия Воров is a union of several specialized guilds, each with it's own master.
-INFO:1883233823122615887=Back again %PCName? Are you done in the Поместье Клентона?
-INFO:1884498992206819808=What about it? The king ordered to stop the work down there, and so we did. It's a shame not to take this ebony, but it's his majesty's will.
-INFO:1885123136242002949=Since Андре Маул is dead, and I didn't find any traces Nevin Baran decided to let Gemandil and Nergel continue with whatever they're doing.
-INFO:18851233361112923841=So she got our message? Good. Did you read it %PCName? It tells Сафана to steal the золотые панталоны from Gilmaril's House. While you brought the letter to Сафана, another guild member already sneaked into the house and placed another note under the pantaloons. This note tells Сафана to meet you in the Kissing Wench at six in the evening. So your next job is to be there in time, take the pantaloons from Сафана and bring her to our hideout.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:18856199921594324996=Now what do you want to do?            ( Your dice: %ZH_Diag_dummy_2 / bet: %ZH_Diag_dummy drakes )
 INFO:1885628121253956160=A bribe? I knew that he's corruptible. 5000 Drakes per week are a bit much though, I guess we have to send someone to parlay about the height of the sum. Good work %PCName.
 INFO:188753146676162798=Not the best job you ever did wasn't it? Well, we all have a bad day from time to time. It seems everything in the warehouse burned to ashes, and there's no trace who laid the fire. I can't pay you for a botched job of course.
@@ -1711,15 +1109,7 @@ INFO:189529615526131852=I know that the guard caught you, and I know that you di
 INFO:18957282671153110868=I think, I heard this name before, but I'm not sure where you can find him.
 INFO:18990111442581127175=I found the скуума thieves. They had quite a party in the tomb, consuming the скуума and lots of alcohol. I guess in their delirium they won't even notice when I take what remains of the скуума.
 INFO:18996313992481211713=No problem, you know where to find me, when you're interested in traveling.
-<<<<<<< HEAD
 INFO:19001307861377311427=A wild animal got into a residence here in Хавиш. Карус Варио of Хавиш's Fighters Guild wants me to go and slay the beast. I'll find М'Хашур's house next to Запотевшая Кружка inn.
-=======
-<<<<<<< HEAD
-INFO:19001307861377311427=A wild animal got into a residence here in Хавиш. Карус Варио of Хавиш's Fighters Guild wants me to go and slay the beast. I'll find М'Хашур's house next to Запотевшая Кружка inn.
-=======
-INFO:19001307861377311427=A wild animal got into a residence here in Хавиш. Carus Vario of Хавиш's Fighters Guild wants me to go and slay the beast. I'll find M'Hashur's house next to Запотевшая Кружка inn.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:19003271973119624934=Oops, pardon.
 INFO:1902810608330631653=If you invest in a fixed deposit, you get a very high interest rate, but have no access to your money for a fixed time. Which contract finds your interest?
 INFO:19032256202345228348=No other missing shipments lately.
@@ -1731,30 +1121,14 @@ INFO:1911928623117473853=Thank you for bringing her to me %PCName. I already wai
 INFO:191242584222736862=The скуума trade is ours again. Good work %PCName.
 INFO:1914627122298527678=Bring me the hides of the six wolves %PCName. You should be able to find them on the plateau northwest of Хавиш.
 INFO:19148230682438629474=Did you take care of that troublemaker?
-<<<<<<< HEAD
 INFO:191612405477319990=Рейна is dead? What a shame. Too bad that you weren't able to save her.
-=======
-<<<<<<< HEAD
-INFO:191612405477319990=Рейна is dead? What a shame. Too bad that you weren't able to save her.
-=======
-INFO:191612405477319990=Reyna is dead? What a shame. Too bad that you weren't able to save her.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1917031858288359958=He wasn't here for a while, he had a strain of bad luck the last weeks, and lost all his money. If he had anything of value, he surely sold it to one of the pawnbrokers.
 INFO:1917531930326768520=I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
 INFO:1919280031106830821=The ring is a forgery! Thelorn examined it and found a secret marking, showing that Estoril, one of his colleagues made this ring. Estoril is a member of Ald'ruhn's Гильдия Воров.
 INFO:1919321242339612306=I deduct 110000 gold from your account. You deposit the money at an interest rate of 2.73%. The sum of 200000 gold will be added to your account after 30 days.
 INFO:19212227298857894=Good. Since you were cooperative, and told me about the fire, I let you go. Stay on the right side of the law from now on.
 INFO:19223233722011817860=Yes, I have a job for you. Someone hired us to steal a drawing.
-<<<<<<< HEAD
 INFO:192561553978952960=I missed the timeline and wasn't there at the warehouse. Maybe I should go to Карус Варио and explain why I didn't follow his orders.
-=======
-<<<<<<< HEAD
-INFO:192561553978952960=I missed the timeline and wasn't there at the warehouse. Maybe I should go to Карус Варио and explain why I didn't follow his orders.
-=======
-INFO:192561553978952960=I missed the timeline and wasn't there at the warehouse. Maybe I should go to Carus Vario and explain why I didn't follow his orders.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1925912579192826903=You want to join the Fighters Guild? I'm the steward here in Хавиш.
 INFO:19272195281905611707=The weather is the worst. You leave your house on a sunny day, and suddenly within minutes a thunderstorm begins. Most ships already avoid Остров Катаер and it's unreliable weather.
 INFO:19275279622802529053=I haven't heard any new rumors.
@@ -1764,10 +1138,6 @@ INFO:19328155051904011848=When Брокк was goblin, Chief said Брокк too 
 INFO:19331168911317513003=Obviously, I rarely leave my laboratory. Дарбиен tolerates me, and depends upon my abilities, but he's too cautious a man to let a vampire stroll freely trough the city. But from what I heard, those are no happenings caused by intend. It's more like the normally tight borders of the natural laws are shifted by a unknown power. Call it chaos if you like.
 INFO:19346683188228369=Some years ago, I had a tinker's shop in Ronielle, of course I also worked for the local Гильдия Воров there. Once I was hired for a discreet job by someone from the royal court. This ring, or better the original one, is a symbol of the royal heir. Whoever owns the ring may claim the throne when the old king dies.
 INFO:19370206391147614665=Good. I have %ZH_BJ_Gold Drakes left. Make your bet.
-<<<<<<< HEAD
-INFO:1940729261234578911=I tried to bribe Мертаин Кулбриус, but my offer was to low.
-=======
-<<<<<<< HEAD
 INFO:1940729261234578911=I tried to bribe Мертаин Кулбриус, but my offer was to low.
 INFO:19408342814919095=Any jobs or leads for me, %PCRank?
 INFO:1941611954872856=It doesn't seem to be an official visit, looks more like Leshir Moniesce is just traveling around with no purpose. He hasn't visited the palace yet, but rent a room in Златая Дева inn. Well, more easier work for us. We already got an offer for that heirloom, it seems to be a signet ring. Go to Златая Дева and fetch that ring from the prince.
@@ -1775,66 +1145,24 @@ INFO:1942011377520411886=Теодистир Хомоис:
 INFO:194219482419626418=There were no other wild animals sighted around Хавиш. I guess we scared them away.
 INFO:19426240361495625221=I tried to smuggle the ring out, but I was caught and put into jail.
 INFO:1943128833298416309=Андан Мериад sold me an old tome of Akaviri origin. It's about the art of weaponcraft.
-=======
-INFO:1940729261234578911=I tried to bribe Mertian Culbrius, but my offer was to low.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
-INFO:19408342814919095=Any jobs or leads for me, %PCRank?
-INFO:1941611954872856=It doesn't seem to be an official visit, looks more like Leshir Moniesce is just traveling around with no purpose. He hasn't visited the palace yet, but rent a room in Златая Дева inn. Well, more easier work for us. We already got an offer for that heirloom, it seems to be a signet ring. Go to Златая Дева and fetch that ring from the prince.
-INFO:1942011377520411886=Theodistyr Homeoise:
-INFO:194219482419626418=There were no other wild animals sighted around Хавиш. I guess we scared them away.
-INFO:19426240361495625221=I tried to smuggle the ring out, but I was caught and put into jail.
-<<<<<<< HEAD
-INFO:1943128833298416309=Андан Мериад sold me an old tome of Akaviri origin. It's about the art of weaponcraft.
-=======
-INFO:1943128833298416309=Andane Meriad sold me an old tome of Akaviri origin. It's about the art of weaponcraft.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:194613192715581399=I didn't meet this Bosmer. I'm not that dull to meet a thief in a dark alley at night, and I don't think I want to get involved in the business of this Гильдия Воров.
 INFO:19475276691840824804=Ah, %PCName. Do you have the real drawing?
 INFO:194922458921256311=I can find home on my own now. Thank you for rescuing me %PCName.
 INFO:1952687636515777=There's another way to bring him to reason. His career in the citywatch must be very important to him, so what if we place some stones in his way? Every morning the guard captain inspects the quarters. If you place some скуума into Demogil's chest, our troublesome guard will be in trouble himself. When he realizes who did it, he might think twice before bothering us again.
 INFO:1953610052699422063=The drawing I stole from Данте was a forgery. Дения sent me back to Данте's house to get the real drawing.
 INFO:1955631292106664028=She's possessed by the ghost of a customer's late wife? I think you should talk to this guy.
-<<<<<<< HEAD
 INFO:19564214932400928540=Hey, you won't hurt me won't you? Here, take those damned gloves, but please believe me, I bought them in Севилиус Пулчер's shop.
 INFO:1957812597580318157=Now, did you talk to Лонас Ромарен? Did he tell you that he sold me the gloves?
-=======
-<<<<<<< HEAD
-INFO:19564214932400928540=Hey, you won't hurt me won't you? Here, take those damned gloves, but please believe me, I bought them in Севилиус Пулчер's shop.
-INFO:1957812597580318157=Now, did you talk to Лонас Ромарен? Did he tell you that he sold me the gloves?
-=======
-INFO:19564214932400928540=Hey, you won't hurt me won't you? Here, take those damned gloves, but please believe me, I bought them in Sevilius Pulcher's shop.
-INFO:1957812597580318157=Now, did you talk to Lonas Romaren? Did he tell you that he sold me the gloves?
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:19582159402611010691=Still looking for that missing girl?
 INFO:19595112801714110291=So he wasn't there yes? Well maybe you just didn't see her, maybe this is because YOU weren't there. Сафана contacted us when she didn't find you in the Inn. You tried to betray the guild, %PCName, you are expelled. Leave this place and don't even think of coming back or telling anything to the citywatch.
 INFO:19605261821049126537=You have news about the drawing?
 INFO:19609327111141931321=So you are the Fighters Guild champion, chosen to destroy those undead?
-<<<<<<< HEAD
 INFO:19623240881543127755=Валерия Ниструс operates a crystal based teleportation chamber, that enables her to transport people across the inner sea. Right now the teleporter leads only to the Mages Guild's on Vvardenfell. Валерия Ниструс gave me four pearls and told me to drop them in Суран, Тель Вос, Гнисис and Дагон Фел.
 INFO:196476337325253228=Дарбиен Эрдал:
 INFO:19672243962614413903=I don't have any other duties for you right now, %PCName.
 INFO:196731051279265339=No need to hurry. When you find some time, break into Данте's home near the Mages Guild, and fetch me that drawing.
 INFO:1968423822283229490=What? But... I... I just...? Help!
 INFO:197033242024606999=Гемандил agreed to leave Игральные Кости. When she no longer works there, it might be easier to convince Nergel to stop gambling. At least his lucky days are over.
-=======
-<<<<<<< HEAD
-INFO:19623240881543127755=Валерия Ниструс operates a crystal based teleportation chamber, that enables her to transport people across the inner sea. Right now the teleporter leads only to the Mages Guild's on Vvardenfell. Валерия Ниструс gave me four pearls and told me to drop them in Suran, Tel Vos, Gnisis and Dagon Fel.
-INFO:196476337325253228=Дарбиен Эрдал:
-INFO:19672243962614413903=I don't have any other duties for you right now, %PCName.
-INFO:196731051279265339=No need to hurry. When you find some time, break into Данте's home near the Mages Guild, and fetch me that drawing.
-INFO:1968423822283229490=What? But... I... I just...? Help!
-INFO:197033242024606999=Гемандил agreed to leave Игральные Кости. When she no longer works there, it might be easier to convince Nergel to stop gambling. At least his lucky days are over.
-=======
-INFO:19623240881543127755=Valeria Nistrus operates a crystal based teleportation chamber, that enables her to transport people across the inner sea. Right now the teleporter leads only to the Mages Guild's on Vvardenfell. Valeria Nistrus gave me four pearls and told me to drop them in Suran, Tel Vos, Gnisis and Dagon Fel.
-INFO:196476337325253228=Darbien Erdal:
-INFO:19672243962614413903=I don't have any other duties for you right now, %PCName.
-INFO:196731051279265339=No need to hurry. When you find some time, break into Данте's home near the Mages Guild, and fetch me that drawing.
-INFO:1968423822283229490=What? But... I... I just...? Help!
-INFO:197033242024606999=Gemandil agreed to leave Игральные Кости. When she no longer works there, it might be easier to convince Nergel to stop gambling. At least his lucky days are over.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:197082341125626339=Thank you for rescuing me.
 INFO:19715156602556822245=I am just a simple citizen. I make my way in the world as best I can. When times are good, I live well enough by my own work. When times are hard, I live by the grace and generosity of the nobility.
 INFO:19715702246868087=(He nods and leaves. You're sure your purse is lighter than before.)
@@ -1843,17 +1171,8 @@ INFO:19735216161174715268=Every once in a while we get an idiot like this client
 INFO:19740105201249713969=From time to time we help out the citywatch when they run out of personnel. This time they need someone to help guarding the southeastern warehouse at the docks. They suspect to find some evidences there, but were ordered to wait until someone comes with the key. Until then they need an additional guard at the docks.
 INFO:197513263225914588=Then I better hurry to take more profit today, before you hunt me out of town...
 INFO:19770124381399628821=Let's go to that cave, and face that ghost, before I loose my courage.
-<<<<<<< HEAD
 INFO:1977325892449620485=The ghost of Марик Реинесте's wife is destroyed. Рейна woke up like from a dream. We're on our way back to Хавиш now.
 INFO:19793044261912763=Hmm... I fear you're right %PCname. I'll stop stealing from this shop. Please, if possible could you try to find a way not to tell Элерет that I was the one that stole from here?
-=======
-<<<<<<< HEAD
-INFO:1977325892449620485=The ghost of Марик Реинесте's wife is destroyed. Рейна woke up like from a dream. We're on our way back to Хавиш now.
-=======
-INFO:1977325892449620485=The ghost of Marick Reineste's wife is destroyed. Reyna woke up like from a dream. We're on our way back to Хавиш now.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:19793044261912763=Hmm... I fear you're right %PCname. I'll stop stealing from this shop. Please, if possible could you try to find a way not to tell Eleret that I was the one that stole from here?
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:1981411881889924025=Yes, those are the hides of the six wolves, so this threat is gone. Good work %PCRank. I'll pay you 300 Gold for each of the wolf pelts.
 INFO:1983085291146923545=When I entered the "Поцелуй Девицы" tavern in Хавиш, a Bosmer bumped into me, and tried to lift some coins from my purse. I let him know that I'm also a thief, and he shouldn't try to steal from me, but he wasn't very impressed. He warned me not to steal here in Хавиш, but also let me know, that I might join the local Гильдия Воров. If I'm interested, I should meet him tonight after nightfall in the alley behind the jeweler's shop.
 INFO:19840256722908228132=Do you want to pick one of the rats as your champion for the next fight?
@@ -1862,54 +1181,22 @@ INFO:198415870868322364=Hey, no cheating! This fight is over.
 INFO:19859241353178828972=Really? You let in the Guild, even when I botched my very first job?
 INFO:1991564472663317568=Thieves must be fast and agile. Being able to move undetected and a knowledge of security are essential to our trade. Most thieves prefer light arms such as daggers, though many use bows or throwing stars. Thieves usually prefer light armor as well, since it is gives some protection, but you can still jump while wearing it.
 INFO:1991917019667525507=I'm ready now. Are you still interested in a rat fight?
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:199352236857012231=Did you hear about М'Хашур? There was this %PCRace that was chased into М'Хашур's house by a wolf pack. Luckily М'Хашур was at home and killed all the beasts bare handed. He even found time to calm the poor scared %PCRace.
 INFO:199482639282017559=No %PCRank, bring those gloves to Мебрин Виинфорд. You'll find him in the Weenford Manor.
 INFO:199927777920326664=So Артемис sent you to find %Name? Well %Name doesn't want him to know where that scimitar is hidden. To bad that you found %Name, now he needs to make sure, that you won't tell Артемис.
 INFO:20018157652078710596=Карус Варио sent me to find a Bosmer named Мехиндрел. The Bosmer obviously stole some valuable gloves from Мебрин Виинфорд, a local noble. When I have the gloves, I should bring them to Мебрин Виинфорд in the Weenford Manor.
 INFO:20020247172913826567=Ah, my friend %PCName again... Are you here looking for a job, or do you think you're ready for advancement?
 INFO:2002858882056331709=You killed her? That's not what I intended. Аманир won't like it for sure... I hope he doesn't suspect that he works for the Гильдия Воров.
-<<<<<<< HEAD
 INFO:20055168762298210456=A legendary artifact. Some mages might pay a fortune for it. I hadn't much luck in finding it though.
 INFO:20073285143249512841=Кипрус Валиус wasn't happy but obeyed the king's orders. They have found rich ebony deposits in the lower levels of the mine, and right now a specialist is busy with preparations to work there. Кипрус Валиус gave me the key to the closed tunnel.
 INFO:20084177372990518415=Do you want to play or hear the rules first?
 INFO:2012129357791328644=As described in the old texts, there are stairs leading down in the center room of the ancient tombs. According to the texts these stairs should lead to the skull, but a cave-in destroyed them. So if the Череп Керфоса really is here on Остров Катаер, its buried under tons of rock, and lost forever.
 INFO:20158102163857455=Well, Master Lombert the brother of late Девенир Хидкрофт gave me a day off, but was very specific in the time when I should come back. I was just ten minutes to late, had I been back earlier, I would've seen that wretched little thief that murdered Девенир Хидкрофт.
-=======
-=======
-INFO:199352236857012231=Did you hear about M'Hashur? There was this %PCRace that was chased into M'Hashur's house by a wolf pack. Luckily M'Hashur was at home and killed all the beasts bare handed. He even found time to calm the poor scared %PCRace.
-INFO:199482639282017559=No %PCRank, bring those gloves to Mebrean Weenford. You'll find him in the Weenford Manor.
-INFO:199927777920326664=So Артемис sent you to find %Name? Well %Name doesn't want him to know where that scimitar is hidden. To bad that you found %Name, now he needs to make sure, that you won't tell Артемис.
-INFO:20018157652078710596=Carus Vario sent me to find a Bosmer named Мехиндрел. The Bosmer obviously stole some valuable gloves from Mebrean Weenford, a local noble. When I have the gloves, I should bring them to Mebrean Weenford in the Weenford Manor.
-INFO:20020247172913826567=Ah, my friend %PCName again... Are you here looking for a job, or do you think you're ready for advancement?
-INFO:2002858882056331709=You killed her? That's not what I intended. Amanir won't like it for sure... I hope he doesn't suspect that he works for the Гильдия Воров.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:20055168762298210456=A legendary artifact. Some mages might pay a fortune for it. I hadn't much luck in finding it though.
-INFO:20073285143249512841=Кипрус Валиус wasn't happy but obeyed the king's orders. They have found rich ebony deposits in the lower levels of the mine, and right now a specialist is busy with preparations to work there. Кипрус Валиус gave me the key to the closed tunnel.
-INFO:20084177372990518415=Do you want to play or hear the rules first?
-INFO:2012129357791328644=As described in the old texts, there are stairs leading down in the center room of the ancient tombs. According to the texts these stairs should lead to the skull, but a cave-in destroyed them. So if the Череп Керфоса really is here on Kathaer Island, its buried under tons of rock, and lost forever.
-<<<<<<< HEAD
-INFO:20158102163857455=Колодец, Master Lombert the brother of late Девенир Хидкрофт gave me a day off, but was very specific in the time when I should come back. I was just ten minutes to late, had I been back earlier, I would've seen that wretched little thief that murdered Девенир Хидкрофт.
-=======
-INFO:20158102163857455=Колодец, Master Lombert the brother of late Devenyr Heedcroft gave me a day off, but was very specific in the time when I should come back. I was just ten minutes to late, had I been back earlier, I would've seen that wretched little thief that murdered Devenyr Heedcroft.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:20172235031576511212=I'm an officer of the citywatch. I'ts my task to enforce law and order within the city.
 INFO:20176194951944328288=I promised Narni to tell Элерет that she helped me in this job. She agreed to stop stealing from the Залог и Заем.
 INFO:2019360341169531420=Then please go and do it.
 INFO:202142216418517410=The Поместье Клентона is next to the bank. Search the upper floor and the cellar for guards, then report back to me.
-<<<<<<< HEAD
 INFO:2021927348108730675=Neither I nor Аманир know of a way to manipulate the Wheel. Go to Игральные Кости, and talk to Гемандил the woman that operates the wheel. I'm sure the guy is a cheater, and maybe she is involved. Be careful - don't let Аманир know that he works for the guild, he's not the kind of man that would work for us...
-=======
-<<<<<<< HEAD
-INFO:2021927348108730675=Neither I nor Аманир know of a way to manipulate the Wheel. Go to Игральные Кости, and talk to Гемандил the woman that operates the wheel. I'm sure the guy is a cheater, and maybe she is involved. Be careful - don't let Аманир know that he works for the guild, he's not the kind of man that would work for us...
-=======
-INFO:2021927348108730675=Neither I nor Amanir know of a way to manipulate the Wheel. Go to Игральные Кости, and talk to Gemandil the woman that operates the wheel. I'm sure the guy is a cheater, and maybe she is involved. Be careful - don't let Amanir know that he works for the guild, he's not the kind of man that would work for us...
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:20227159713337308=Fighters Guild: Undead Invasion
 INFO:20336313303205432357=Enter the vault %PCName. We'll stand watch.
 INFO:20373377716894550=I think we're lucky that this Гримвард is nearby %PCName. If those actions down in the mine had not caused all those strange happenings in Хавиш, we had never investigated about this. Eventually the borders to the elemental planes would have broken down, and ravaging elementals would have destroyed the whole city.
@@ -1917,7 +1204,6 @@ INFO:2038029984227526305=Have you found this Bosmer and the gloves?
 INFO:2038910202916929567=Ah, it worked... This feels... different... Please watch over my body while I test if my theory was right...
 INFO:2039920162316429172=Брокк wants to be big mighty bridge troll. You tiny %PCRace. You pay 100 gold for crossing Брокк's bridge.
 INFO:204609157622625523=So %PCname, would you accompany me to Ald Velothi and then convince Sjorne to take us to Хавиш?
-<<<<<<< HEAD
 INFO:20461179408173623=I can't be of much help %PCName. I'm barely used to my new incorporate state yet, and have to learn how to do things without a body. I informed Дарбиен Эрдал, he will help you to find out what happens in the mine.
 INFO:20482106202350632027=Well, I suppose you had no chance to force it back. Good work nonetheless %PCName.
 INFO:204922985511854857=No, Chief be smartest, Брокк not smartest goblin, but now Брокк be Bridge Troll, now people pay Брокк to cross bridge.
@@ -1930,47 +1216,11 @@ INFO:206411224479911771=Yes, I'll put this ruby under one of these three cups I 
 INFO:20652100863131712251=I reported back to Берин and told him all I found out. The shipment is gone, and with Капитан Хансол the guild lost a good man, but at least we uncovered that traitor.
 INFO:2071030459288617505=No, I don't think I have seen anyone who fits this description.
 INFO:20716436755054772=I'm really concerned about Рейна. Ask around if one of the other girls knows something. Maybe you should come back in the evening, when everyone is here.
-=======
-<<<<<<< HEAD
-INFO:20461179408173623=I can't be of much help %PCName. I'm barely used to my new incorporate state yet, and have to learn how to do things without a body. I informed Дарбиен Эрдал, he will help you to find out what happens in the mine.
-=======
-INFO:20461179408173623=I can't be of much help %PCName. I'm barely used to my new incorporate state yet, and have to learn how to do things without a body. I informed Darbien Erdal, he will help you to find out what happens in the mine.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:20482106202350632027=Колодец, I suppose you had no chance to force it back. Good work nonetheless %PCName.
-INFO:204922985511854857=No, Chief be smartest, Брокк not smartest goblin, but now Брокк be Bridge Troll, now people pay Брокк to cross bridge.
-INFO:20511226891264723084=This is a question you shouldn't ask...
-INFO:2053022902834628748=Sorry, you need to open an account at our bank first.
-<<<<<<< HEAD
-INFO:20576211222683311845=I caught Нарни Сарет sneaking into Lomas’ shop. She thinks the opportunity of an unlocked empty shop is too promising to let it pass. She's a low rank member of the guild and earns some extra coin by robbing this shop.
-INFO:206110305258151377=Did you flee from this large bear downstairs? Don't worry, the Fighters Guild will send someone to take care of it. You can stay here until the beast is dead, but please don't touch anything.
-INFO:2063323517166171236=Kill the beast!
-INFO:206411224479911771=Yes, I'll put this ruby under one of these three cups I have here, and then mix them up. You give me 50 Drakes and then chose one of the cups. You get whatever is under the cup, maybe the ruby, maybe nothing. What do you say?
-INFO:20652100863131712251=I reported back to Berin and told him all I found out. The shipment is gone, and with Капитан Хансол the guild lost a good man, but at least we uncovered that traitor.
-INFO:2071030459288617505=No, I don't think I have seen anyone who fits this description.
-INFO:20716436755054772=I'm really concerned about Рейна. Ask around if one of the other girls knows something. Maybe you should come back in the evening, when everyone is here.
-=======
-INFO:20576211222683311845=I caught Narni Sareth sneaking into Lomas’ shop. She thinks the opportunity of an unlocked empty shop is too promising to let it pass. She's a low rank member of the guild and earns some extra coin by robbing this shop.
-INFO:206110305258151377=Did you flee from this large bear downstairs? Don't worry, the Fighters Guild will send someone to take care of it. You can stay here until the beast is dead, but please don't touch anything.
-INFO:2063323517166171236=Kill the beast!
-INFO:206411224479911771=Yes, I'll put this ruby under one of these three cups I have here, and then mix them up. You give me 50 Drakes and then chose one of the cups. You get whatever is under the cup, maybe the ruby, maybe nothing. What do you say?
-INFO:20652100863131712251=I reported back to Berin and told him all I found out. The shipment is gone, and with Captain Hansol the guild lost a good man, but at least we uncovered that traitor.
-INFO:2071030459288617505=No, I don't think I have seen anyone who fits this description.
-INFO:20716436755054772=I'm really concerned about Reyna. Ask around if one of the other girls knows something. Maybe you should come back in the evening, when everyone is here.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:2072437031591429172=Greetings %PCRace. Are you interested in a game of cups?
 INFO:2073447211007725567=I'm a bookseller. I buy and sell books. I also read books, and know the sorts of things you read in books.
 INFO:2073932572175511950=I don't think we've been introduced. I'm %Name. How can I help you?
 INFO:20749158161328832007=Go to her and try to convince her to drop her plans. You may even bribe her. But if she doesn't comply, don't become violent. Come back to me, I already have a plan for this case.
-<<<<<<< HEAD
 INFO:207775312130772950=I fetched the ring from Кинстарк's pockets again. Now I sold it to the prince that seemed to be really glad to have it back. Leshir Moniesce paid the twenty thousand gold pieces without much discussion. 50000 drakes... I love myself, and I'm sure Эрденис also will.
-=======
-<<<<<<< HEAD
-INFO:207775312130772950=I fetched the ring from Кинстарк's pockets again. Now I sold it to the prince that seemed to be really glad to have it back. Leshir Moniesce paid the twenty thousand gold pieces without much discussion. 50000 drakes... I love myself, and I'm sure Эрденис also will.
-=======
-INFO:207775312130772950=I fetched the ring from Kynstark's pockets again. Now I sold it to the prince that seemed to be really glad to have it back. Leshir Moniesce paid the twenty thousand gold pieces without much discussion. 50000 drakes... I love myself, and I'm sure Эрденис also will.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:20804148673024217795=%Name heard no new rumors.
 INFO:2081100052444216200=I am a publican. I have food to buy, and beds for lodgers. I also know the neighborhood, and can share the local lore, or, if you prefer, I can tell you a bit about Хавиш. I also am likely to have heard the latest rumors, and am happy to share them with you in the spirit of fellowship.
 INFO:208343392115682063=I have no other tasks for you.
@@ -1978,32 +1228,18 @@ INFO:2085722471159651622=What are you doing here in my house?
 INFO:20860140001662126241=Thelorn made a copy of the key. Now I should hurry back, to put one of the keys back into Кошель Вендри.
 INFO:208641952472672199=I'm a diamond miner. The diamond deposits here on Остров Катаер are some of the richest in the world. It's hard work. The rock is hard, and the hours long. But it pays well.
 INFO:2086714520930313360=This letter is indeed interesting... %PCname, it tells of a young careless prince that will arrive in Хавиш soon, wearing a valuable heirloom. We'll care about this, when the prince arrives. Now I have another job for you.
-<<<<<<< HEAD
 INFO:20873304411791411579=Карус Варио sent me to Cerebrold at the Order of Arkay. A powerful necromantic force within the city tombs raises the dead there, and I'm the one who is going to destroy the undead. Carus warned me, that I should prepare myself well before I go and enter the tombs.
-=======
-<<<<<<< HEAD
-INFO:20873304411791411579=Карус Варио sent me to Cerebrold at the Order of Arkay. A powerful necromantic force within the city tombs raises the dead there, and I'm the one who is going to destroy the undead. Carus warned me, that I should prepare myself well before I go and enter the tombs.
-=======
-INFO:20873304411791411579=Carus Vario sent me to Cerebrold at the Order of Arkay. A powerful necromantic force within the city tombs raises the dead there, and I'm the one who is going to destroy the undead. Carus warned me, that I should prepare myself well before I go and enter the tombs.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:20876134956923912=There's a party going on in the palace. Caitlen, one of my pickpockets was sent there for a bit of game. She was supposed to come back two hours ago, but didn't show up. Go there %PCName, and have a look what happened to her. Here, have a forged invitation, without it they won't let you in...
 INFO:20880301282691823310=You got all of them? Great. Now let's talk about the second part of this job. You must find Аварис Ромбиер and get the original amulet back. Nobody in the guild knows of his whereabouts, but he was often seen talking to Мирия, one of Nevin's girls above in Цитадель. She might know where to find him. I leave it up to you what you're doing with Аварис...
 INFO:2089647991870210235=Not so fast, who tells me you didn't light the fire? What's this here in your pockets? Looks like the kind of smuggled goods we suspected to be in the warehouse. This is evidence enough. You're arrested. Do you have anything to say in defense?
 INFO:20928887534322399=This weakling Bosmer was no match for me. I took the gloves from Мехиндрел's body.
-<<<<<<< HEAD
 INFO:20956147833277075=Now, enough rambling. First we need to know if this Гримвард still exists, and what its purpose is. To accomplish that we'll need a way to detect it. You assisted Талемос in the past? He's my best student. Like me, one of the few mages still interested in the real powers of mysticism. Go to Талемос and tell him that we have evidence about a Гримвард's presence here on Остров Катаер. He will be as interested as I, to find out the location and purpose of this magic.
-=======
-<<<<<<< HEAD
-INFO:20956147833277075=Now, enough rambling. First we need to know if this Grimward still exists, and what its purpose is. To accomplish that we'll need a way to detect it. You assisted Талемос in the past? He's my best student. Like me, one of the few mages still interested in the real powers of mysticism. Go to Талемос and tell him that we have evidence about a Grimward's presence here on Kathaer Island. He will be as interested as I, to find out the location and purpose of this magic.
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:2097525812324521008=Гильдия Воров: A Troublesome Стражник
 INFO:210131225315814925=Don't show that letter to Элерет. There is a small path around the mountain that starts at the bridge to the temple. Follow that path until you come to the old ruin on the plateau. When you meet me there, I will tell you a bit about the Гильдия Воров and how honorable it's current leadership really is.
 INFO:2103313558172088197=Nevin wasn't pleased that I killed Гвинет Эргадис. This won't do the guild much good.
 INFO:21040114552002121862=Wedding day? Oh yes, I forgot. My wife killed every girl I had on our wedding day? Jealousy made her insane in life, but now she's completely mad. How are you going to stop her?
 INFO:21062436430147750=I reported back to Эрденис after my little trick. As I thought, he was very amused about my idea to sell the ring to one of the guys, then steal it back and sell to the other. This also paid out for me: Эрденис let me keep half of the extra profit.
 INFO:21068178433204915593=Not long ago the leadership of the guild was spread among three persons, Vobar the Guildmaster, and his lieutenants Артемис and myself. Most guild members didn't like the fact that Vobar and Артемис took a big share of the guild's profit for themselves, but did almost nothing to the guild's benefit.
-<<<<<<< HEAD
 INFO:2111119916318116643=I gave the spell I got from Aryon to Талемос. He is hesitant though to cast this scrying spell to locate the Гримвард before he knows what lurks within.
 INFO:21114240633254114239=Гильдия Воров: Honor among Thieves
 INFO:21130301032521114094=I am a mage and a member of the Mages Guild.
@@ -2011,49 +1247,14 @@ INFO:2114811356209110694=Demogil accepted my offer for a bribe, seems like Эл�
 INFO:21165165342247528026=Oh, too bad, %PCRace. That's not the one. Look, the ruby is under the cup in the middle. Do you want to try your luck at another game of cups?
 INFO:21179281131525315612=I found a strange diamond in Эргестин Энкосте's house. When I touched it, it transported me to a small solitary isleand with a little hut on it. A really nice place. I guess I found Эргестин Энкосте's secret laboratory. Now I only hope, that I will find a way back. This is not the worst place to be stranded, but a bit too solitary for my taste.
 INFO:21181310471113813894=OK, you double down. You draw a new card, I stand.
-=======
-INFO:2111119916318116643=I gave the spell I got from Aryon to Талемос. He is hesitant though to cast this scrying spell to locate the Grimward before he knows what lurks within.
-=======
-INFO:20956147833277075=Now, enough rambling. First we need to know if this Grimward still exists, and what its purpose is. To accomplish that we'll need a way to detect it. You assisted Thalemos in the past? He's my best student. Like me, one of the few mages still interested in the real powers of mysticism. Go to Thalemos and tell him that we have evidence about a Grimward's presence here on Kathaer Island. He will be as interested as I, to find out the location and purpose of this magic.
-INFO:2097525812324521008=Гильдия Воров: A Troublesome Guard
-INFO:210131225315814925=Don't show that letter to Eleret. There is a small path around the mountain that starts at the bridge to the temple. Follow that path until you come to the old ruin on the plateau. When you meet me there, I will tell you a bit about the Гильдия Воров and how honorable it's current leadership really is.
-INFO:2103313558172088197=Nevin wasn't pleased that I killed Gwyneth Ergadice. This won't do the guild much good.
-INFO:21040114552002121862=Wedding day? Oh yes, I forgot. My wife killed every girl I had on our wedding day? Jealousy made her insane in life, but now she's completely mad. How are you going to stop her?
-INFO:21062436430147750=I reported back to Эрденис after my little trick. As I thought, he was very amused about my idea to sell the ring to one of the guys, then steal it back and sell to the other. This also paid out for me: Эрденис let me keep half of the extra profit.
-INFO:21068178433204915593=Not long ago the leadership of the guild was spread among three persons, Vobar the Guildmaster, and his lieutenants Артемис and myself. Most guild members didn't like the fact that Vobar and Артемис took a big share of the guild's profit for themselves, but did almost nothing to the guild's benefit.
-INFO:2111119916318116643=I gave the spell I got from Aryon to Thalemos. He is hesitant though to cast this scrying spell to locate the Grimward before he knows what lurks within.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
-INFO:21114240633254114239=Гильдия Воров: Honor among Thieves
-INFO:21130301032521114094=I am a mage and a member of the Mages Guild.
-INFO:2114811356209110694=Demogil accepted my offer for a bribe, seems like Eleret was right when she presumed, that all his dedication was just for show, to let us know what happens if we don't pay him.
-INFO:21165165342247528026=Oh, too bad, %PCRace. That's not the one. Look, the ruby is under the cup in the middle. Do you want to try your luck at another game of cups?
-INFO:21179281131525315612=I found a strange diamond in Эргестин Энкосте's house. When I touched it, it transported me to a small solitary isleand with a little hut on it. A really nice place. I guess I found Эргестин Энкосте's secret laboratory. Now I only hope, that I will find a way back. This is not the worst place to be stranded, but a bit too solitary for my taste.
-INFO:21181310471113813894=OK, you double down. You draw a new card, I stand.
-<<<<<<< HEAD
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:21191272252511410294=Рейна is dead? What a shame. Too bad that you weren't able to save her.
 INFO:212234878314771063=(Элерет:)
 INFO:21254190912760814756=Yes I heard of it. It's the separated head of a lich that possesses some magical powers on its own. Ask Кобинус Нерис about it, he studied the tales about the Череп Керфоса.
 INFO:2126126701579912620=No Problem. Goodbye.
 INFO:2128926121109616128=Here are my dice, you loose.               ( Your dice: %ZH_Diag_dummy_2 / Dealers dice: %ZH_Diag_dummy )
 INFO:2129019141939832332=Талемос:
-<<<<<<< HEAD
 INFO:2129330039606413838=So Гемандил and Nergel are a couple? Well, now we know why the guy wins, but I still know no way to manipulate the wheel. Maybe you should look for Андре Маул, the former Amusement Taskmaster. He installed the wheel before he retired. Аманир bought the tavern from him. You'll find Андре Маул somewhere in Дагон Фел over on Vvardenfell; ask around there.
 INFO:2130015742202332354=Берин Дорфи thanked me for finishing this скуума problem. Now that Авос Улвани is dead, the Cammona Tong will think twice before they again try to meddle with Хавиш's Гильдия Воров.
-=======
-INFO:2129330039606413838=So Гемандил and Nergel are a couple? Well, now we know why the guy wins, but I still know no way to manipulate the wheel. Maybe you should look for Андре Маул, the former Amusement Taskmaster. He installed the wheel before he retired. Аманир bought the tavern from him. You'll find Андре Маул somewhere in Dagon Fel over on Vvardenfell; ask around there.
-INFO:2130015742202332354=Берин Дорфи thanked me for finishing this skooma problem. Now that Авос Улвани is dead, the Cammona Tong will think twice before they again try to meddle with Хавиш's Гильдия Воров.
-=======
-INFO:21191272252511410294=Reyna is dead? What a shame. Too bad that you weren't able to save her.
-INFO:212234878314771063=(Eleret:)
-INFO:21254190912760814756=Yes I heard of it. It's the separated head of a lich that possesses some magical powers on its own. Ask Cobinus Neris about it, he studied the tales about the Череп Керфоса.
-INFO:2126126701579912620=No Problem. Goodbye.
-INFO:2128926121109616128=Here are my dice, you loose.               ( Your dice: %ZH_Diag_dummy_2 / Dealers dice: %ZH_Diag_dummy )
-INFO:2129019141939832332=Thalemos:
-INFO:2129330039606413838=So Gemandil and Nergel are a couple? Well, now we know why the guy wins, but I still know no way to manipulate the wheel. Maybe you should look for Андре Маул, the former Amusement Taskmaster. He installed the wheel before he retired. Amanir bought the tavern from him. You'll find Андре Маул somewhere in Dagon Fel over on Vvardenfell; ask around there.
-INFO:2130015742202332354=Berin Dorfi thanked me for finishing this skooma problem. Now that Avos Ulvani is dead, the Cammona Tong will think twice before they again try to meddle with Хавиш's Гильдия Воров.
->>>>>>> a896c8a455c3c6556c4738b9e65938bb3eb788d8
->>>>>>> bac6d1aba16949368ef8f61920f38415d75fda45
 INFO:21301171242678532010=So you met Эссендир? He tried to destroy Хавиш with an army of undead? I feared that he's gone insane. What a tragic end after all these centuries. I hope he finds peace now.
 INFO:2130225667299072981=Yeh see the look on his face? Ha ha! Wasn' expectin' that, I can tell yeh!
 INFO:21312224671286117453=I didn't tell her all I know about Артемис, maybe I should hear his side of the story first.
